@@ -13,43 +13,43 @@
 
 <ul>
     <li>
-        <a href="ejercicio_1.php">
+        <a href="ej_carga_desde_archivo.php">
             Export XML desde archivo
         </a>
     </li>
 </ul>
 <ul>
     <li>
-        <a href="ejercicio_2.php">
+        <a href="ej_carga_desde_url.php">
             Export XML desde URL
         </a>
     </li>
 </ul>
 <ul>
     <li>
-        <a href="ejercicio_3.php">
+        <a href="ej_export_mysql_varchar.php">
             Export XML a una base de datos MySQL - varchar
         </a>
     </li>
 </ul>
 <ul>
     <li>
-        <a href="ejercicio_4.php">
+        <a href="ej_export_mysql_parse.php">
             Export XML a una base de datos MySQL - parse
         </a>
     </li>
 </ul>
 <ul>
     <li>
-        <a href="ejercicio_5.php">
-            Export XML a una base de datos PostgreSQL - 1
+        <a href="ej_export_postgresql.php">
+            Export XML a una base de datos PostgreSQL - archivo a XML nativo
         </a>
     </li>
 </ul>
 <ul>
     <li>
         <a href="ejercicio_6.php">
-            Export XML a una base de datos PostgreSQL - 2
+            Export XML a una base de datos PostgreSQL - query XPath
         </a>
     </li>
 </ul>
