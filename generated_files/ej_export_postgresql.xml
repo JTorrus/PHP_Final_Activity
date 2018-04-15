@@ -1,0 +1,410 @@
+<response>
+    <row>
+        <row _id="1" _uuid="CDE70251-DE28-47C2-A021-628D7EFA94DB" _position="1" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/1">
+            <codi_d_informaci>20189</codi_d_informaci>
+            <dep>Departament de la Vicepresid&#xE8;ncia i dEconomia i Hisenda</dep>
+            <nom>Direcci&#xF3; General de la Intervenci&#xF3;</nom>
+            <resp>David Canada i Zapater</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general de la Intervenci&#xF3;</carrec>
+        </row>
+        <row _id="2" _uuid="3208EF93-1980-4B6A-80F8-9C058C508696" _position="2" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/2">
+            <codi_d_informaci>85</codi_d_informaci>
+            <dep>Departament de la Presid&#xE8;ncia</dep>
+            <nom>Direcci&#xF3; General de Mitjans de Comunicaci&#xF3;</nom>
+            <resp>Jordi del R&#xED;o i Gonz&#xE1;lez</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general de Mitjans de Comunicaci&#xF3;</carrec>
+        </row>
+        <row _id="3" _uuid="31A4EC88-DE35-45A7-9EFF-78A31D0EBE07" _position="3" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/3">
+            <codi_d_informaci>11747</codi_d_informaci>
+            <dep>Departament de la Presid&#xE8;ncia</dep>
+            <nom>Direcci&#xF3; General de Comunicaci&#xF3; del Govern</nom>
+            <resp>Jaume Clotet i Planas</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="4" _uuid="88F91EFA-CC24-4854-A6D0-5B5E87B05493" _position="4" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/4">
+            <codi_d_informaci>12660</codi_d_informaci>
+            <dep>Departament de Territori i Sostenibilitat</dep>
+            <nom>Secretaria dInfraestructures i Mobilitat</nom>
+            <resp>Ricard Font Hereu</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Secretari</carrec>
+        </row>
+        <row _id="5" _uuid="B272B375-66A7-44A5-8758-B2B2702B1710" _position="5" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/5">
+            <codi_d_informaci>19029</codi_d_informaci>
+            <dep>Departament de Salut</dep>
+            <nom>Secretaria de Salut P&#xFA;blica</nom>
+            <resp>Joan Guix i Oliver</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Secretari</carrec>
+        </row>
+        <row _id="6" _uuid="4923DBBA-A763-467A-82BE-4DAD52260963" _position="6" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/6">
+            <codi_d_informaci>19790</codi_d_informaci>
+            <dep>Departament de Salut</dep>
+            <nom>Direcci&#xF3; General de Recerca i Innovaci&#xF3; en Salut</nom>
+            <resp>Albert Barber&#xE0; Llu&#xED;s</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="7" _uuid="139C8BAA-1851-4740-B298-320853EB7467" _position="7" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/7">
+            <codi_d_informaci>5115</codi_d_informaci>
+            <dep>Departament de Just&#xED;cia</dep>
+            <nom>Direcci&#xF3; General de Dret i dEntitats Jur&#xED;diques</nom>
+            <resp>Xavier Bernad&#xED; i Gil</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="8" _uuid="981E0CAC-E4EB-4E26-88B9-49449E7647ED" _position="8" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/8">
+            <codi_d_informaci>10187</codi_d_informaci>
+            <dep>Departament dEnsenyament</dep>
+            <nom>Consell Catal&#xE0; de Formaci&#xF3; Professional</nom>
+            <resp>Jordi Ficapal Mestres</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>President</carrec>
+        </row>
+        <row _id="9" _uuid="A51DF297-71A0-4D18-9032-EF5D47896917" _position="9" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/9">
+            <codi_d_informaci>18121</codi_d_informaci>
+            <dep>Departament dEnsenyament</dep>
+            <nom>Direcci&#xF3; General de Centres P&#xFA;blics</nom>
+            <resp>Antoni Masseg&#xFA; i Calveras</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="10" _uuid="F463E21D-3CBD-43FC-9891-0D5EC3D065A2" _position="10" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/10">
+            <codi_d_informaci>139</codi_d_informaci>
+            <dep>Departament dEmpresa i Coneixement</dep>
+            <nom>Direcci&#xF3; General de Recerca</nom>
+            <resp>Francesc Ramon Subirada i Curc&#xF3;</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="11" _uuid="5E7379F6-4378-4035-B253-083FB7093B03" _position="11" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/11">
+            <codi_d_informaci>1300</codi_d_informaci>
+            <dep>Departament de la Vicepresid&#xE8;ncia i dEconomia i Hisenda</dep>
+            <nom>Direcci&#xF3; General de Pressupostos</nom>
+            <resp>Anna Tarrach Colls</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general</carrec>
+        </row>
+        <row _id="12" _uuid="AEF4ED7F-9535-43BB-BAAF-C2FC1E1D391D" _position="12" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/12">
+            <codi_d_informaci>1488</codi_d_informaci>
+            <dep>Departament de la Vicepresid&#xE8;ncia i dEconomia i Hisenda</dep>
+            <nom>Direcci&#xF3; General del Patrimoni de la Generalitat de Catalunya</nom>
+            <resp>Nat&#xE0;lia Garriga Ib&#xE1;&#xF1;ez</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general (supl&#xE8;ncia)</carrec>
+        </row>
+        <row _id="13" _uuid="1F7505AB-AE7C-4CBC-B2F2-97FC46765C67" _position="13" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/13">
+            <codi_d_informaci>15432</codi_d_informaci>
+            <dep>Departament de la Vicepresid&#xE8;ncia i dEconomia i Hisenda</dep>
+            <nom>Delegaci&#xF3; Territorial del Govern de la Generalitat a la Catalunya Central</nom>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Delegat/ada territorial del Govern</carrec>
+        </row>
+        <row _id="14" _uuid="684F4B6C-A417-4B69-B891-B227F8018BE9" _position="14" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/14">
+            <codi_d_informaci>560</codi_d_informaci>
+            <dep>Departament de Governaci&#xF3;, Administracions P&#xFA;bliques i Habitatge</dep>
+            <nom>Secretaria dAdministraci&#xF3; i Funci&#xF3; P&#xFA;blica</nom>
+            <resp>Ester Obach i Medrano</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Secret&#xE0;ria dAdministraci&#xF3; i Funci&#xF3; P&#xFA;blica</carrec>
+        </row>
+        <row _id="15" _uuid="5C5345FF-789D-4FC5-A605-C75DBB6F6ECE" _position="15" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/15">
+            <codi_d_informaci>10634</codi_d_informaci>
+            <dep>Departament de Governaci&#xF3;, Administracions P&#xFA;bliques i Habitatge</dep>
+            <nom>Direcci&#xF3; de Serveis</nom>
+            <resp>Josefina Valls i Vila</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora de Serveis</carrec>
+        </row>
+        <row _id="16" _uuid="15EFD245-CD1E-423D-9F7E-0A54871F205B" _position="16" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/16">
+            <codi_d_informaci>12720</codi_d_informaci>
+            <dep>Departament de Governaci&#xF3;, Administracions P&#xFA;bliques i Habitatge</dep>
+            <nom>Direcci&#xF3; General de Funci&#xF3; P&#xFA;blica</nom>
+            <resp>Susanna Bouis i Guti&#xE9;rrez</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general de Funci&#xF3; P&#xFA;blica</carrec>
+        </row>
+        <row _id="17" _uuid="6C5C218E-E40C-477C-9197-74DCAD94535D" _position="17" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/17">
+            <codi_d_informaci>2228</codi_d_informaci>
+            <dep>Departament de Cultura</dep>
+            <nom>Secretaria General de Cultura</nom>
+            <resp>Maria Dolors Port&#xFA;s i Vinyeta</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Secret&#xE0;ria general de Cultura</carrec>
+        </row>
+        <row _id="18" _uuid="996CC2AC-5427-4A5F-82AC-4A2BF82B4E0A" _position="18" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/18">
+            <codi_d_informaci>13795</codi_d_informaci>
+            <dep>Departament dInterior</dep>
+            <nom>Direcci&#xF3; de Serveis</nom>
+            <resp>Raquel Sistar&#xE9; Lanas</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora de Serveis</carrec>
+        </row>
+        <row _id="19" _uuid="D6872F8D-CD41-4739-B932-8BA54F51E375" _position="19" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/19">
+            <codi_d_informaci>5457</codi_d_informaci>
+            <dep>Departament dEmpresa i Coneixement</dep>
+            <nom>Direcci&#xF3; General de Comer&#xE7;</nom>
+            <resp>Montserrat Vilalta Cambra</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general de Comer&#xE7;</carrec>
+        </row>
+        <row _id="20" _uuid="24AFBD38-9E03-4798-9DE4-669AB055A15F" _position="20" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/20">
+            <codi_d_informaci>13405</codi_d_informaci>
+            <dep>Departament dAfers i Relacions Institucionals i Exteriors i Transpar&#xE8;ncia</dep>
+            <nom>Ag&#xE8;ncia Catalana de Cooperaci&#xF3; al Desenvolupament</nom>
+            <resp>Carme Gual Via</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+        </row>
+        <row _id="21" _uuid="03FD848D-CEAE-42AB-9CEB-2068C1CCB758" _position="21" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/21">
+            <codi_d_informaci>13775</codi_d_informaci>
+            <dep>Departament dAfers i Relacions Institucionals i Exteriors i Transpar&#xE8;ncia</dep>
+            <nom>Direcci&#xF3; General de Relacions Institucionals i amb el Parlament</nom>
+            <resp>Carme Garcia i Su&#xE1;rez</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general de Relacions Institucionals i amb el Parlament</carrec>
+        </row>
+        <row _id="22" _uuid="7D86D570-935A-4A23-998D-18622976784E" _position="22" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/22">
+            <codi_d_informaci>629</codi_d_informaci>
+            <dep>Departament de la Presid&#xE8;ncia</dep>
+            <nom>Gabinet Jur&#xED;dic de la Generalitat de Catalunya</nom>
+            <resp>Francesc Esteve i Balagu&#xE9;</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director</carrec>
+        </row>
+        <row _id="23" _uuid="C0737C6A-BDEC-4314-9BF9-C8232C69565C" _position="23" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/23">
+            <codi_d_informaci>19782</codi_d_informaci>
+            <dep>Departament de la Presid&#xE8;ncia</dep>
+            <nom>Secretaria de Difusi&#xF3; i Atenci&#xF3; Ciutadana</nom>
+            <resp>Antoni Molons i Garcia</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Secretari</carrec>
+        </row>
+        <row _id="24" _uuid="CEBDF270-111E-47DF-8169-CD2CB24FBC24" _position="24" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/24">
+            <codi_d_informaci>11327</codi_d_informaci>
+            <dep>Departament de Treball, Afers Socials i Fam&#xED;lies</dep>
+            <nom>Secretaria dIgualtat, Migracions i Ciutadania</nom>
+            <resp>Oriol Amor&#xF3;s i March</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Secretari</carrec>
+        </row>
+        <row _id="25" _uuid="3093BB08-83FE-4F92-98E0-FB7712624AF6" _position="25" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/25">
+            <codi_d_informaci>6307</codi_d_informaci>
+            <dep>Departament de Territori i Sostenibilitat</dep>
+            <nom>Direcci&#xF3; General de Pol&#xED;tiques Ambientals i Medi Natural</nom>
+            <resp>Ferran Miralles Sabadell</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="26" _uuid="9E1C04CE-C7CA-4FF2-8505-67E6DA16F592" _position="26" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/26">
+            <codi_d_informaci>19674</codi_d_informaci>
+            <dep>Departament de Salut</dep>
+            <nom>&#xC0;rea de Tecnologies de la Informaci&#xF3; i les Comunicacions</nom>
+            <resp>Pol P&#xE9;rez i Sust</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Coordinador</carrec>
+        </row>
+        <row _id="27" _uuid="6344EB42-4A9D-4BF0-AFC6-30724600BADA" _position="27" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/27">
+            <codi_d_informaci>5178</codi_d_informaci>
+            <dep>Departament de Just&#xED;cia</dep>
+            <nom>Centre dIniciatives per a la Reinserci&#xF3; (CIRE)</nom>
+            <resp>Juan Jos&#xE9; Torres L&#xF3;pez</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director</carrec>
+        </row>
+        <row _id="28" _uuid="8CB4905E-48D7-4E29-81FA-67E9C8F04DF1" _position="28" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/28">
+            <codi_d_informaci>2340</codi_d_informaci>
+            <dep>Departament de Cultura</dep>
+            <nom>Direcci&#xF3; General de Cooperaci&#xF3; Cultural</nom>
+            <resp>Joaquim Torrent i Frigola</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="29" _uuid="A5020B04-FDA6-4E15-B2C2-FEE1880414F1" _position="29" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/29">
+            <codi_d_informaci>18123</codi_d_informaci>
+            <dep>Departament dEnsenyament</dep>
+            <nom>Direcci&#xF3; General de Centres Concertats i Centres Privats</nom>
+            <resp>Miquel Mateo Garc&#xED;a</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="30" _uuid="8E1FFA57-DFC6-424A-BFE7-4102071CD09B" _position="30" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/30">
+            <codi_d_informaci>131</codi_d_informaci>
+            <dep>Departament dEmpresa i Coneixement</dep>
+            <nom>Direcci&#xF3; General dUniversitats</nom>
+            <resp>Josep Pallar&#xE8;s Marzal</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="31" _uuid="02124949-6BA6-46FE-81FD-70C769AA1946" _position="31" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/31">
+            <codi_d_informaci>15728</codi_d_informaci>
+            <dep>Departament dEmpresa i Coneixement</dep>
+            <nom>Secretaria dUniversitats i Recerca</nom>
+            <resp>Arcadi Navarro Cuartiellas</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Secretari</carrec>
+        </row>
+        <row _id="122" _uuid="CB1B0759-FBB0-4095-86CF-1B25C85C8626" _position="122" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/122">
+            <codi_d_informaci>542</codi_d_informaci>
+            <dep>Departament de la Presid&#xE8;ncia</dep>
+            <nom>Oficina del Govern</nom>
+            <resp>Llu&#xED;s Azemar Mallard</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director de lOficina del Govern</carrec>
+        </row>
+        <row _id="32" _uuid="6B7C122D-5CEF-4F9A-A319-DF51AF310C50" _position="32" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/32">
+            <codi_d_informaci>4169</codi_d_informaci>
+            <dep>Departament dAgricultura, Ramaderia, Pesca i Alimentaci&#xF3;</dep>
+            <nom>Secretaria General dAgricultura, Ramaderia, Pesca i Alimentaci&#xF3;</nom>
+            <resp>David Mascort Subiranas</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Secretari general</carrec>
+        </row>
+        <row _id="33" _uuid="DB9CC942-0F6F-4F45-BBA4-26F96C11DB96" _position="33" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/33">
+            <codi_d_informaci>19805</codi_d_informaci>
+            <dep>Departament dAfers i Relacions Institucionals i Exteriors i Transpar&#xE8;ncia</dep>
+            <nom>Oficina de Seguiment i Suport a les Comissions Parit&#xE0;ries Estat-Generalitat</nom>
+            <resp>Alfonso Gonz&#xE1;lez Bondia</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director</carrec>
+        </row>
+        <row _id="34" _uuid="1A0A4838-F8DF-49BB-920B-DE5F695764F0" _position="34" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/34">
+            <codi_d_informaci>19793</codi_d_informaci>
+            <dep>Departament de la Vicepresid&#xE8;ncia i dEconomia i Hisenda</dep>
+            <nom>Direcci&#xF3; General dAn&#xE0;lisi Econ&#xF2;mica</nom>
+            <resp>Nat&#xE0;lia Mas Guix</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general</carrec>
+        </row>
+        <row _id="35" _uuid="B43F6E68-9D23-4D3E-AB74-A98E77CC97FC" _position="35" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/35">
+            <codi_d_informaci>35</codi_d_informaci>
+            <dep>Departament de la Presid&#xE8;ncia</dep>
+            <nom>Direcci&#xF3; de Serveis</nom>
+            <resp>Teresa Prohias i Ricart</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora de Serveis</carrec>
+        </row>
+        <row _id="36" _uuid="7412D18F-0BDB-46FE-924F-BC1EFB59D079" _position="36" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/36">
+            <codi_d_informaci>12768</codi_d_informaci>
+            <dep>Departament de la Presid&#xE8;ncia</dep>
+            <nom>Direcci&#xF3; General de Serveis Consultius i Coordinaci&#xF3; Jur&#xED;dica</nom>
+            <resp>M. Dolors Feliu i Torrent</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general de Serveis Consultius i Coordinaci&#xF3; Jur&#xED;dica</carrec>
+        </row>
+        <row _id="37" _uuid="014B0060-9329-435C-AE93-EC90C767AF5D" _position="37" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/37">
+            <codi_d_informaci>3062</codi_d_informaci>
+            <dep>Departament de Salut</dep>
+            <nom>Institut Catal&#xE0; de la Salut (ICS)</nom>
+            <resp>Candela Calle Rodr&#xED;guez</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora gerent</carrec>
+        </row>
+        <row _id="38" _uuid="30E9E8C0-E38B-4E3E-9FEF-D6D49A3C2927" _position="38" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/38">
+            <codi_d_informaci>15772</codi_d_informaci>
+            <dep>Departament de Just&#xED;cia</dep>
+            <nom>Direcci&#xF3; General de Modernitzaci&#xF3; de lAdministraci&#xF3; de Just&#xED;cia</nom>
+            <resp>Rosa Anna Castillo Picas</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general</carrec>
+        </row>
+        <row _id="39" _uuid="C49B8C02-A642-4A06-8B65-4E0403ABE617" _position="39" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/39">
+            <codi_d_informaci>19778</codi_d_informaci>
+            <dep>Departament de Governaci&#xF3;, Administracions P&#xFA;bliques i Habitatge</dep>
+            <nom>Secretaria General de Governaci&#xF3;, Administracions P&#xFA;bliques i Habitatge</nom>
+            <resp>Meritxell Mas&#xF3; i Carb&#xF3;</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Secret&#xE0;ria General</carrec>
+        </row>
+        <row _id="40" _uuid="BD662ED4-48D1-458A-B53E-CBB223715A11" _position="40" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/40">
+            <codi_d_informaci>853</codi_d_informaci>
+            <dep>Departament dInterior</dep>
+            <nom>Servei Catal&#xE0; de Tr&#xE0;nsit</nom>
+            <resp>Eugenia Dom&#xE9;nech Moral</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora</carrec>
+        </row>
+        <row _id="41" _uuid="C32F02EA-DA2E-4875-92B1-BC623CC3559D" _position="41" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/41">
+            <codi_d_informaci>858</codi_d_informaci>
+            <dep>Departament dInterior</dep>
+            <nom>Institut de Seguretat P&#xFA;blica de Catalunya</nom>
+            <resp>Annabel Marcos Vilar</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora</carrec>
+        </row>
+        <row _id="42" _uuid="68620ECC-172C-4295-AC4F-C75D0C78694C" _position="42" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/42">
+            <codi_d_informaci>18124</codi_d_informaci>
+            <dep>Departament dEnsenyament</dep>
+            <nom>Direcci&#xF3; General dEducaci&#xF3; Infantil i Prim&#xE0;ria</nom>
+            <resp>Carme Ortoll Gr&#xED;fols</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora general</carrec>
+        </row>
+        <row _id="43" _uuid="471AC402-FDAF-4178-88E3-E35F7D3970F1" _position="43" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/43">
+            <codi_d_informaci>19802</codi_d_informaci>
+            <dep>Departament dAfers i Relacions Institucionals i Exteriors i Transpar&#xE8;ncia</dep>
+            <nom>Direcci&#xF3; de Serveis</nom>
+            <resp>Marta Garsaball i Pujol</resp>
+            <tractament_responsable>Sra.</tractament_responsable>
+            <carrec>Directora de Serveis</carrec>
+        </row>
+        <row _id="44" _uuid="F42F643F-5C98-4F01-9937-F3885900C5F5" _position="44" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/44">
+            <codi_d_informaci>648</codi_d_informaci>
+            <dep>Departament de la Presid&#xE8;ncia</dep>
+            <nom>Direcci&#xF3; General dAssumptes Contenciosos</nom>
+            <resp>Xavier Urios i Aparisi</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general dAssumptes Contenciosos</carrec>
+        </row>
+        <row _id="45" _uuid="83D3B2CB-1A39-460A-8673-6B156525DE35" _position="45" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/45">
+            <codi_d_informaci>3520</codi_d_informaci>
+            <dep>Departament de Territori i Sostenibilitat</dep>
+            <nom>Direcci&#xF3; General de Transports i Mobilitat</nom>
+            <resp>Pere Padrosa Pierre</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="46" _uuid="DA8BEBF4-DDF2-4092-A775-642E15DF242C" _position="46" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/46">
+            <codi_d_informaci>18119</codi_d_informaci>
+            <dep>Departament de Governaci&#xF3;, Administracions P&#xFA;bliques i Habitatge</dep>
+            <nom>Secretaria dHabitatge i Millora Urbana</nom>
+            <resp>Carles Sala i Roca</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Secretari dHabitatge i Millora Urbana</carrec>
+        </row>
+        <row _id="47" _uuid="79E4B1E5-F500-42B6-87E5-898A2248D8AD" _position="47" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/47">
+            <codi_d_informaci>2284</codi_d_informaci>
+            <dep>Departament de Cultura</dep>
+            <nom>Direcci&#xF3; General del Patrimoni Cultural</nom>
+            <resp>Jus&#xE8;p Maria Boya i Busquet</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director general</carrec>
+        </row>
+        <row _id="48" _uuid="FC9AB94A-EE14-41D1-9F37-F9D40C826CD2" _position="48" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/48">
+            <codi_d_informaci>20242</codi_d_informaci>
+            <dep>Comissi&#xF3; de Garantia del Dret dAcc&#xE9;s a la Informaci&#xF3; P&#xFA;blica (GAIP)</dep>
+            <nom>Comissi&#xF3; de Garantia del Dret dAcc&#xE9;s a la Informaci&#xF3; P&#xFA;blica</nom>
+            <resp>Oriol Mir i Puigpelat</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Vicepresident</carrec>
+        </row>
+        <row _id="49" _uuid="533EC537-0206-4062-BF5F-98C1BC918565" _position="49" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/49">
+            <codi_d_informaci>4507</codi_d_informaci>
+            <dep>Departament dAgricultura, Ramaderia, Pesca i Alimentaci&#xF3;</dep>
+            <nom>Promotora dExportacions Catalanes, SA (PRODECA, SA)</nom>
+            <resp>Ramon Sentmart&#xED; Casta&#xF1;&#xE9;</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director gerent</carrec>
+        </row>
+        <row _id="50" _uuid="18A7A0AB-F2CC-4EBF-A0AF-529C22755F1D" _position="50" _address="https://analisi.transparenciacatalunya.cat/resource/_37y5-gzur/50">
+            <codi_d_informaci>9990</codi_d_informaci>
+            <dep>Departament dAfers i Relacions Institucionals i Exteriors i Transpar&#xE8;ncia</dep>
+            <nom>Consell Assessor per al Desenvolupament Sostenible de Catalunya (CADS)</nom>
+            <resp>Arnau Queralt i Bassa</resp>
+            <tractament_responsable>Sr.</tractament_responsable>
+            <carrec>Director</carrec>
+        </row>
+    </row>
+</response>
