@@ -28,16 +28,32 @@
 <ul>
     <li>
         <a href="ejercicio_3.php">
-            Insert de un XML a una base de datos MySQL
+            Export XML a una base de datos MySQL - varchar
         </a>
     </li>
 </ul>
 <ul>
-    <li></li>
+    <li>
+        <a href="ejercicio_4.php">
+            Export XML a una base de datos MySQL - parse
+        </a>
+    </li>
 </ul>
 <ul>
-    <li></li>
+    <li>
+        <a href="ejercicio_5.php">
+            Export XML a una base de datos PostgreSQL - 1
+        </a>
+    </li>
 </ul>
+<ul>
+    <li>
+        <a href="ejercicio_6.php">
+            Export XML a una base de datos PostgreSQL - 2
+        </a>
+    </li>
+</ul>
+
 
 </body>
 </html>

@@ -1,0 +1,354 @@
+<response>
+    <row>
+        <row _id="1" _uuid="3D7C52E5-0A1B-47A7-9700-654AB4E7B24C" _position="1"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/1">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>AGRAMUNT</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>6480</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="2" _uuid="1C201A2E-EE3C-442E-A06B-BFBB9594A212" _position="2"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/2">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>ALCARRÀS</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>13431</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="3" _uuid="6D6857A1-159D-4898-9DDA-6031D33B8E00" _position="3"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/3">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>ALFARRÀS/ALMENAR</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>9777</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="4" _uuid="F5822A79-9D2A-47CA-A55D-2877A38E4FF8" _position="4"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/4">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>ARTESA DE SEGRE</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>4023</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="5" _uuid="1CC4A5D2-4D91-438A-95BE-E7E19E803198" _position="5"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/5">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>BALAGUER</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>27732</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="6" _uuid="9A7BB6A2-C9B2-4347-A205-6846DA654B4A" _position="6"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/6">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>BELLPUIG</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>6986</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="7" _uuid="F6E63920-4C86-44AE-A998-56BB96F12DBE" _position="7"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/7">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LES BORGES BLANQUES</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>15834</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="8" _uuid="77300084-6471-4C7F-842E-F5EED57E2A3D" _position="8"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/8">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>CERVERA</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>20418</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="9" _uuid="57A3C65B-3CB0-434F-B7CA-6D22AD158AF3" _position="9"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/9">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LA GRANADELLA</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>2498</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="10" _uuid="754DE098-5FB1-493E-ACC1-E0732117D5BA" _position="10"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/10">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA 1 CENTRE HISTÒRIC-RAMBLA FERRAN</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>17652</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="11" _uuid="AC2EB849-2253-4DCE-B776-DCA1CDBA8332" _position="11"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/11">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA 2 RONDA-MARIOLA</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>25639</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="12" _uuid="4EF4C54E-63BB-4767-BF56-186DFAE814D1" _position="12"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/12">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA 3 EIXAMPLE</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>21418</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="13" _uuid="9BCDFE31-9A36-4BAD-B720-31A8729263E2" _position="13"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/13">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA 4 BALÀFIA-PARDINYES</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>27141</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="14" _uuid="CB2A133F-D08D-445E-945A-2A03C6D3835D" _position="14"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/14">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA 5 CAPPONT</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>15727</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="15" _uuid="AEE5C137-7050-42C7-87E9-4F458661BC80" _position="15"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/15">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA 6 BORDETA-MAGRANERS</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>16347</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="16" _uuid="7D8F06BB-9D41-42FD-A70D-0ED2169A73FD" _position="16"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/16">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA RURAL 1-NORD</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>23138</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="17" _uuid="9FD9A725-EC96-489E-B9C8-E70939B04C47" _position="17"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/17">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>PLA D'URGELL</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>37527</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="18" _uuid="D116CBBB-0D1D-48B0-BAA3-2ADA4443581C" _position="18"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/18">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>PONTS</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>3662</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="19" _uuid="D18D9D78-4432-48DC-A943-DDAD991C5ABE" _position="19"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/19">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>SERÒS</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>6856</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="20" _uuid="C0EFA73F-C51A-4CAD-9FFB-D6AD84F37B45" _position="20"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/20">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>TÀRREGA</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>23199</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="21" _uuid="A4EC59A6-324D-4974-8A7A-3039B51D33D7" _position="21"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/21">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA RURAL 2-SUD</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>7504</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="22" _uuid="CF67AC00-E4DA-475A-8516-732397FF62FF" _position="22"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/22">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>ALMACELLES</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>8803</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="23" _uuid="F8B302C1-14A9-4E85-ADE6-42617086F74E" _position="23"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/23">
+            <any>2018</any>
+            <regi_sanit_ria>LLEIDA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LLEIDA 7 ONZE DE SETEMBRE</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>16278</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="24" _uuid="DFBD0406-6C22-4C70-BAAD-1DA458186760" _position="24"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/24">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>EL VENDRELL</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>46310</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="25" _uuid="EA7F745D-6420-43CB-83C2-CAAA6B3CC490" _position="25"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/25">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>LES BORGES DEL CAMP</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>6506</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="26" _uuid="A6180024-FCE6-486A-8719-0BE4B9594812" _position="26"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/26">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>CAMBRILS</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>32957</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="27" _uuid="5060854F-9781-4651-829E-0F9F3552F3D5" _position="27"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/27">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>CONSTANTÍ</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>6724</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="28" _uuid="1F59EAF5-7DB1-4C85-B082-60B09176D053" _position="28"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/28">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>CORNUDELLA DE MONTSANT</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>2188</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="29" _uuid="CDB74CB6-BFCB-48DC-BBEF-688933694BCC" _position="29"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/29">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>FALSET</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>6669</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="30" _uuid="BDE82CD3-E8EA-468F-B6FE-11882BB1B0FE" _position="30"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/30">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>MONTBLANC</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>15956</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="31" _uuid="3DA59768-7E9A-4A1C-B4EF-7BEF7D3F5096" _position="31"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/31">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>MONT-ROIG DEL CAMP</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>12592</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="32" _uuid="2A7C22BD-6666-4385-9631-0145686AC876" _position="32"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/32">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>EL MORELL</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>11924</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="33" _uuid="23BE87BB-5965-4DED-9DC8-AD944CA7736F" _position="33"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/33">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>RIUDOMS</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>12439</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="34" _uuid="CA21F44D-0D43-489F-A2DF-AE532FFFABC8" _position="34"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/34">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>TARRAGONA 1</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>14602</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="35" _uuid="547C2DAC-D963-4F2A-AAB6-58D91B1840CF" _position="35"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/35">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>TARRAGONA 2</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>27732</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="36" _uuid="06AB672E-61E8-4BB5-946A-89F95CF1C34C" _position="36"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/36">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>TARRAGONA 3</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>30097</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="37" _uuid="49C9871C-888E-4F99-88A3-F085365751BD" _position="37"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/37">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>TARRAGONA 4</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>15808</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="38" _uuid="BFFF67B2-2F37-4351-B24C-ACD29B698AE7" _position="38"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/38">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>TARRAGONA 5</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>16472</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="39" _uuid="2F342945-3BF3-45BF-A704-3297C44DF6EC" _position="39"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/39">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>TARRAGONA 6</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>19350</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="40" _uuid="CEE859CE-BE49-4A70-8BA1-FA0DE9D791BE" _position="40"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/40">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>TORREDEMBARRA</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>35354</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="41" _uuid="8107BAC6-A923-4DFF-870C-422D7E320698" _position="41"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/41">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>ALT CAMP EST</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>11646</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="42" _uuid="76CE4BD2-F1E7-4602-AC46-F20DA359301D" _position="42"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/42">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>VALLS URBÀ</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>27023</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="43" _uuid="85ACE311-A15C-45BB-A2AA-1D171C5FD252" _position="43"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/43">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>REUS 1</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>13415</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="44" _uuid="F35413E3-4B63-455E-A3A1-8E0E89F93928" _position="44"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/44">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>REUS 2</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>26967</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="45" _uuid="E19BF91F-12D6-4163-B958-3FDE4203472C" _position="45"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/45">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>REUS 3</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>22409</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="46" _uuid="3682F47E-1EFA-4F0B-9F74-0007E46B0CD6" _position="46"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/46">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>REUS 4</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>21360</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="47" _uuid="5969F8D0-ABC7-4C3A-B9A8-9E412FC35E38" _position="47"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/47">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>REUS 5</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>27326</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="48" _uuid="4AA99E3F-FAD5-40B3-93DC-2402AD1A9963" _position="48"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/48">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>BAIX PENEDÈS - INTERIOR</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>14697</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="49" _uuid="FBACC9C7-8CD0-4A0D-B967-ED974429031F" _position="49"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/49">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>VANDELLÒS I L'HOSPITALET DE L'INFANT</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>5693</poblaci_assegurada_oficial_catsalut>
+        </row>
+        <row _id="50" _uuid="EA053E1A-4D74-40AF-AB77-737B45D4AA90" _position="50"
+             _address="https://analisi.transparenciacatalunya.cat/resource/ftq4-h9vk/50">
+            <any>2018</any>
+            <regi_sanit_ria>CAMP DE TARRAGONA</regi_sanit_ria>
+            <rea_b_sica_de_salut>ALT CAMP OEST</rea_b_sica_de_salut>
+            <poblaci_assegurada_oficial_catsalut>6198</poblaci_assegurada_oficial_catsalut>
+        </row>
+    </row>
+</response>
