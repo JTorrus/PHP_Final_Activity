@@ -14,12 +14,16 @@
 <ul>
     <li>
         <a href="ejercicio_1.php">
-            Export XML de archivo
+            Export XML desde archivo
         </a>
     </li>
 </ul>
 <ul>
-    <li></li>
+    <li>
+        <a href="ejercicio_2.php">
+            Export XML desde URL
+        </a>
+    </li>
 </ul>
 <ul>
     <li></li>
