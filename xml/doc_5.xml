@@ -1,0 +1,1303 @@
+<response>
+    <row>
+        <row _id="1" _uuid="A8CB18E3-A213-4287-967D-17AAB557E3DB" _position="1"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/1">
+            <exercici>2015</exercici>
+            <mat_ries>Recerca</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2014/2/019</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lAdministració general de lEstat, mitjançant el Ministeri
+                dEconomia i Competitivitat, lAdministració de la Generalitat de Catalunya, mitjançant el Departament
+                de Salut i el Departament dEconomia i Coneixement, la Fundació Parc Científic de Barcelona, i la
+                Fundació Centre de Regulació Genòmica, per a lexplotació del Centre Nacional dAnálisi Genòmica.
+            </t_tol_conveni>
+            <data_signatura>2014-12-29T00:00:00</data_signatura>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Explotació i finançament del Centre Nacional dAnàlisi Genòmica (CNAG).</objecte>
+            <organismes_signants>Departament de Salut; Fundació Privada Centre de Regulació Genòmica (CRG); Departament
+                dEconomia i Coneixement
+            </organismes_signants>
+            <altres_organismes_signants>Fundació Parc Científic de Barcelona (FPCB); Ministeri dEconomia i
+                Competitivitat
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>3250000</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>3250000</total_despesa>
+        </row>
+        <row _id="2" _uuid="596A0FFC-7045-4BAD-96A4-C3F29F43BBA2" _position="2"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/2">
+            <exercici>2015</exercici>
+            <mat_ries>Esports</mat_ries>
+            <secci>1</secci>
+            <n_mero_conveni_definitiu>2015/1/0004</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de cooperació educativa entre lInstitut Nacional dEducació Física de Catalunya
+                (INEFC) i Fundació per a lEsport Balear per a la realització de pràctiques acadèmiques externes
+                destudiants de lINEFC.
+            </t_tol_conveni>
+            <data_signatura>2015-05-06T00:00:00</data_signatura>
+            <data_vig_ncia>2015-09-30T00:00:00</data_vig_ncia>
+            <durada>Prorrogable automàticament per cursos acadèmics, llevat de denúncia.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Realitzar pràctiques externes dalumnes de lINEFC matriculats en el Grau en Ciències de
+                lactivitat física i lesport o en qualsevol dels Màsters que ofereixi lINEFC.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament als acords segon a vuitè.</drets_i_obligacions>
+            <organismes_signants>Institut Nacional dEducació Física de Catalunya (INEFC)</organismes_signants>
+            <altres_organismes_signants>Fundació per a lEsport Balear (CTEIB)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="3" _uuid="430A9C2D-6063-4793-8BDA-258A580AA193" _position="3"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/3">
+            <exercici>2015</exercici>
+            <mat_ries>Joventut</mat_ries>
+            <secci>1</secci>
+            <n_mero_conveni_definitiu>2015/1/0005</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord de col·laboració entre lAgència Catalana de la Joventut i la Direcció de joventut i
+                Acció Comunitària del Departament de Cultura del Govern Basc.
+            </t_tol_conveni>
+            <data_signatura>2015-06-11T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Oferir a les persones titulars de la "Gazte-txartela/Carnet Jove" una sèrie davantatges.</objecte>
+            <drets_i_obligacions>Continguts bàsicament en els acords segon a vuitè del conveni.</drets_i_obligacions>
+            <organismes_signants>Agència Catalana de la Joventut (ACJ)</organismes_signants>
+            <altres_organismes_signants>Departament dEducació, Política Lingüística i Cultura (Govern Basc)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="4" _uuid="CD1DD4C8-0A03-49D8-BED4-A6AF43EAEBA3" _position="4"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/4">
+            <exercici>2015</exercici>
+            <mat_ries>Política lingüística</mat_ries>
+            <secci>1</secci>
+            <n_mero_conveni_definitiu>2015/1/001</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lAcadèmia Valenciana de la Llengua i lInstitut Ramon Llull,
+                per al manteniment dels lectorats valencians en lexterior.
+            </t_tol_conveni>
+            <data_signatura>2015-09-21T00:00:00</data_signatura>
+            <data_vig_ncia>2016-09-21T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Manteniment dels lectorats valencians en lexterior durant el curs acadèmic 2015-2016.</objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona a cinquena.</drets_i_obligacions>
+            <organismes_signants>Institut Ramon Llull</organismes_signants>
+            <altres_organismes_signants>Acadèmia Valenciana de la Llengua (Generalitat Valenciana)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="5" _uuid="849071BE-C3E3-41D1-8CAB-63FC69DE3756" _position="5"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/5">
+            <exercici>2015</exercici>
+            <mat_ries>Cultura</mat_ries>
+            <secci>1</secci>
+            <n_mero_conveni_definitiu>2015/1/002</n_mero_conveni_definitiu>
+            <t_tol_conveni>Protocol general entre lAdministració de la Generalitat de Catalunya i la Comunitat Autònoma
+                de les Illes Balears per a la incorporació del Govern de les Illes Balears al Consorci de lInstitut
+                Ramon Llull.
+            </t_tol_conveni>
+            <data_signatura>2015-11-24T00:00:00</data_signatura>
+            <durada>Vigent fins que es produeixi el reingrés del Govern de les Illes Balears a lInstitut Ramon Llull.
+            </durada>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Iniciar els tràmits necessaris per fer efectiu el reingrés del Govern de les Illes Balears a
+                lInstitut Ramon Llull.
+            </objecte>
+            <drets_i_obligacions>Es contenen, bàsicament, a les clàusules segona i tercera del Protocol.
+            </drets_i_obligacions>
+            <organismes_signants>Departament de Cultura</organismes_signants>
+            <altres_organismes_signants>Conselleria de Participació, Transparència i Cultura del Govern de les Illes
+                Balears
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="6" _uuid="B38F183C-903A-4161-B1AE-1CB762618450" _position="6"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/6">
+            <exercici>2015</exercici>
+            <mat_ries>Esports</mat_ries>
+            <secci>1</secci>
+            <n_mero_conveni_definitiu>2015/1/003</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de cooperació educativa entre lInstitut Nacional dEducació Física de Catalunya
+                (INEFC) i Fundació per a lEsport Balear (CTEIB) per a la realització de pràctiques acadèmiques externes
+                destudiants de lINEFC.
+            </t_tol_conveni>
+            <data_signatura>2015-12-15T00:00:00</data_signatura>
+            <data_vig_ncia>2016-09-30T00:00:00</data_vig_ncia>
+            <durada>Previsió de pròrroga tàcita indefinida que no pot excedir del 02/10/2020 per aplicació Llei
+                40/2015.
+            </durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Realitzar pràctiques externes dalumnes de lINEFC matriculats en el Grau en Ciències de
+                lactivitat física i lesport o en qualsevol dels Màsters que ofereix lINEFC.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament als acords segon a vuitè del conveni.</drets_i_obligacions>
+            <organismes_signants>Institut Nacional dEducació Física de Catalunya (INEFC)</organismes_signants>
+            <altres_organismes_signants>Fundació per a lEsport Balear (CTEIB)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="7" _uuid="CFDDC80C-C3B5-4703-A25C-C4492244DBD0" _position="7"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/7">
+            <exercici>2015</exercici>
+            <mat_ries>Recerca</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/001</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lAdministració general de lEstat, mitjançant el Ministeri
+                dEconomia i Competitivitat, lAdministració de la Generalitat de Catalunya, mitjançant el Departament
+                dEconomia i Coneixement, i la Universitat Politècnica de Catalunya, per a la creació, construcció,
+                equipament i explotació del Barcelona Supercomputing Center - Centre Nacional de Supercomputació (BSC -
+                CNS).
+            </t_tol_conveni>
+            <data_signatura>2015-03-09T00:00:00</data_signatura>
+            <data_vig_ncia>2016-03-09T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Creació, construcció, equipament i explotació del Barcelona Supercomputing Center - Centre Nacional
+                de Supercomputació (BSC - CNS).
+            </objecte>
+            <organismes_signants>Departament dEconomia i Coneixement</organismes_signants>
+            <altres_organismes_signants>Ministeri dEconomia i Competitivitat; Universitat Politècnica de Catalunya
+                (UPC)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>2829438.67</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>5811530</total_despesa_altres_organismes_signants>
+            <total_despesa>8640968.67</total_despesa>
+        </row>
+        <row _id="8" _uuid="8A86006F-5ECB-495D-AA98-3DB307D63A2D" _position="8"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/8">
+            <exercici>2015</exercici>
+            <mat_ries>Universitats</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/002</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Ministeri dEducació, Cultura i Esport i lAgència per a la
+                Qualitat del Sistema Universitari de Catalunya.
+            </t_tol_conveni>
+            <data_signatura>2015-02-04T00:00:00</data_signatura>
+            <durada>Fins a lefectiva integració de la CNEAI en lANECA.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Col·laborar per a la cessió de les dades de sexennis del personal docent i investigador de les
+                universitats públiques catalanes.
+            </objecte>
+            <organismes_signants>Agència per a la Qualitat del Sistema Universitari de Catalunya (AQU)
+            </organismes_signants>
+            <altres_organismes_signants>Ministeri dEducació, Cultura i Esport</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="9" _uuid="6A5C3B02-68A1-42BA-AB2F-053D8921C189" _position="9"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/9">
+            <exercici>2015</exercici>
+            <mat_ries>Noves Tecnologies i Societat Informació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/0022</n_mero_conveni_definitiu>
+            <t_tol_conveni>Adhesió al Protocol, subscrit el 26 de març de 2015, entre lAdministració de la Generalitat
+                de Catalunya i lAjuntament de Barcelona per tal que Barcelona continuï esdevenint la ciutat de la World
+                Capital Project.
+            </t_tol_conveni>
+            <data_signatura>2015-03-26T00:00:00</data_signatura>
+            <data_vig_ncia>2023-10-01T00:00:00</data_vig_ncia>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Formalitzar el compromís de les administracions signants per tal que la ciutat de Barcelona
+                continuï esdevenint la Mobile World Capital fins a lany 2023.
+            </objecte>
+            <organismes_signants>Departament dEmpresa i Ocupació</organismes_signants>
+            <organismes_signants_ens_locals>Ajuntament de Barcelona</organismes_signants_ens_locals>
+            <altres_organismes_signants>Ministeri dIndústria, Energia i Turisme</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>25000000</total_despesa_altres_organismes_signants>
+            <total_despesa>25000000</total_despesa>
+        </row>
+        <row _id="10" _uuid="876092CE-F7FA-4393-BE3C-4EC6BDD9149C" _position="10"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/10">
+            <exercici>2015</exercici>
+            <mat_ries>Esports</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/003</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Consell Superior dEsports, lAdministració de la
+                Generalitat de Catalunya i el Centre dAlt Rendiment per a activitats, infraestructures i equipaments al
+                Centre dAlt Rendiment de Sant Cugat en lexercici 2015.
+            </t_tol_conveni>
+            <data_signatura>2015-03-25T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Realitzar activitats i construcció dinstal·lacions esportives i modernització amb la finalitat que
+                es desenvolupi la preparació i especialització desportistes dalt nivell i dalt rendiment.
+            </objecte>
+            <organismes_signants>Departament de la Presidència; Centre dAlt Rendiment Esportiu (CAR)
+            </organismes_signants>
+            <altres_organismes_signants>Consell Superior dEsports</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>2500000</total_despesa_altres_organismes_signants>
+            <total_despesa>2500000</total_despesa>
+        </row>
+        <row _id="11" _uuid="04B704DE-5A03-446E-9D48-B0A55639870C" _position="11"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/11">
+            <exercici>2015</exercici>
+            <mat_ries>Noves Tecnologies i Societat Informació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/004</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Ministeri dHisenda i Administracions Públiques i
+                lAdministració de la Generalitat de Catalunya, mitjançant el Departament dEconomia i Coneixement, per
+                a la interconnexió entre Plataformes de contractació pública.
+            </t_tol_conveni>
+            <data_signatura>2015-04-10T00:00:00</data_signatura>
+            <data_vig_ncia>2020-04-10T00:00:00</data_vig_ncia>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Interconnexió entre Plataformes de contractació pública.</objecte>
+            <organismes_signants>Departament dEconomia i Coneixement</organismes_signants>
+            <altres_organismes_signants>Ministeri dHisenda i Administracions Públiques</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="12" _uuid="17BA0AF7-2B53-48C2-89ED-A9ABD6145F11" _position="12"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/12">
+            <exercici>2015</exercici>
+            <mat_ries>Agricultura, Ramaderia, Pesca, Alimentació i Medi</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/005</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lEntitat Estatal dAssegurances Agràries i lAdministració de
+                la Generalitat de Catalunya, mitjançant el Departament dAgricultura, Ramaderia, Pesca, Alimentació i
+                Medi Natural, per a la realització del control integral daccés a subvencions (CIAS) a les assegurances
+                agràries dels beneficiaris de Catalunya.
+            </t_tol_conveni>
+            <data_signatura>2015-05-27T00:00:00</data_signatura>
+            <data_vig_ncia>2016-05-27T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Realització del control integral daccés a subvencions (CIAS) a les assegurances agràries dels
+                beneficiaris de la seva comunitat autònoma.
+            </objecte>
+            <organismes_signants>Departament dAgricultura, Ramaderia, Pesca, Alimentació i Medi Natural
+            </organismes_signants>
+            <altres_organismes_signants>Entitat Estatal dAssegurances Agràries (ENESA)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="13" _uuid="45662108-0797-4D11-83FE-8A6E0702952A" _position="13"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/13">
+            <exercici>2015</exercici>
+            <mat_ries>Justícia</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/007</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Ministeri de Justícia i lAdministració de la Generalitat
+                de Catalunya pel qual es formalitzen els compromisos financers de lAcord del Consell de Ministres de
+                data 22 de maig de 2015, pel qual saprova la distribució del crèdit del Programa de reforma de
+                lAdministració de Justícia.
+            </t_tol_conveni>
+            <data_signatura>2015-09-03T00:00:00</data_signatura>
+            <data_vig_ncia>2016-03-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Formalitzar el compromisos financers del Programa de reforma de lAdministració de Justícia.
+            </objecte>
+            <organismes_signants>Departament de Justícia</organismes_signants>
+            <altres_organismes_signants>Ministeri de Justícia</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>1186744</total_despesa_altres_organismes_signants>
+            <total_despesa>1186744</total_despesa>
+        </row>
+        <row _id="14" _uuid="89D5B63E-F34F-45FD-8BC0-8F22ABCA5A25" _position="14"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/14">
+            <exercici>2015</exercici>
+            <mat_ries>Noves Tecnologies i Societat Informació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/008</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord Marc de col·laboració entre la Secretaria dEstat de Telecomunicacions i per a la
+                Societat de la Informació i lAdministració de la Generalitat de Catalunya per a la coordinació i
+                seguiment de les actuacions a desenvolupar en matèria de tecnologies de la informació i de la
+                comunicació i laccés a aquestes en el marc dels Fons Estructurals de la UE per al període 2014/2020.
+            </t_tol_conveni>
+            <data_signatura>2015-10-05T00:00:00</data_signatura>
+            <durada>Fins al venciment del Programa "POCint" i del Programa FEDER 2014-2020.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Regular els mecanismes operatius per a la coordinació entre les parts en el disseny i execució dels
+                programes de foment de les tecnologies de la comunicació i la societat de la informació inclosos en els
+                programes dinversió de fons estructurals de la Unió Europea.
+            </objecte>
+            <drets_i_obligacions>Es detallen a la clàusula segona de lAcord Marc.</drets_i_obligacions>
+            <organismes_signants>Departament dEmpresa i Ocupació</organismes_signants>
+            <altres_organismes_signants>Ministeri dIndústria, Energia i Turisme</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="15" _uuid="17317F63-CF31-403E-87B2-F2AC15B78FDB" _position="15"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/15">
+            <exercici>2015</exercici>
+            <mat_ries>Noves Tecnologies i Societat Informació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/009</n_mero_conveni_definitiu>
+            <t_tol_conveni>Encàrrec de gestió del Centre de Telecomunicacions i Tecnologies de la Informació de la
+                Generalitat de Catalunya a lempresa Tecnologies i Serveis Agraris, SA (TRAGSATEC), per a lassistència
+                tècnica per a la gestió del pagament únic (PÚNIC).
+            </t_tol_conveni>
+            <data_signatura>2015-10-02T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Prestació de serveis dassistència tècnica a laplicació PÚNIC per tal dincorporar la gestió de
+                drets de la campanya 2015, del Departament dAgricultura, Ramaderia, Pesca, Alimentació i Medi Natural.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona i tercera, i a lAnnex I.
+            </drets_i_obligacions>
+            <organismes_signants>Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)</organismes_signants>
+            <altres_organismes_signants>Tecnologies i Serveis Agraris, SA (TRAGSATEC-TRAGSA)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>451832.93</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>451832.93</total_despesa>
+        </row>
+        <row _id="16" _uuid="2846BFBE-785A-4BA3-82D2-2D15A3D77D0B" _position="16"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/16">
+            <exercici>2015</exercici>
+            <mat_ries>Agricultura, Ramaderia, Pesca i Alimentació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/010</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni específic de col·laboració entre lAdministració general de lEstat, mitjançant el
+                Ministeri dAgricultura, Alimentació i Medi Ambient, i lAdministració de la Generalitat de Catalunya,
+                mitjançant el Departament dAgricultura, Ramaderia, Pesca i Alimentació, en matèria destadística. Any
+                2015.
+            </t_tol_conveni>
+            <data_signatura>2015-12-16T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Dur a terme, durant lany 2015, les funcions necessàries de recollida dinformació en explotacions
+                agràries, establiments, empreses industrials i mercats de productes agraris; i també el seu
+                enregistrament i validació, en làmbit territorial de Catalunya, per a lexecució del Programa
+                dEstadística.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona i quarta.</drets_i_obligacions>
+            <organismes_signants>Departament dAgricultura, Ramaderia, Pesca i Alimentació</organismes_signants>
+            <altres_organismes_signants>Ministeri dAgricultura, Alimentació i Medi Ambient</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>194812.62</total_despesa_altres_organismes_signants>
+            <total_despesa>194812.62</total_despesa>
+        </row>
+        <row _id="17" _uuid="1847DC9D-0B58-4903-90EE-37CA21572F17" _position="17"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/17">
+            <exercici>2015</exercici>
+            <mat_ries>Treball</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/011</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Servei Públic dOcupació Estatal i lAdministració de la
+                Generalitat de Catalunya, mitjançant el Servei dOcupació de Catalunya, per a la realització de tràmits
+                per via electrònica en relació amb els contractes per a la formació i laprenentatge.
+            </t_tol_conveni>
+            <data_signatura>2015-01-19T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <durada>Establerta pròrroga tàcita. No pot excedir del 02/10/2020 per aplicació Llei 40/2015.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Realitzar els tràmits relatius a lautorització de lactivitat formativa del contracte per a la
+                formació i laprenentatge, i altres tràmits previstos a la normativa vigent.
+            </objecte>
+            <drets_i_obligacions>Bàsicament continguts a les clàusules segona i tercera.</drets_i_obligacions>
+            <organismes_signants>Servei dOcupació de Catalunya (SOC)</organismes_signants>
+            <altres_organismes_signants>Servei Públic dOcupació Estatal (SEPE)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="18" _uuid="09856E0F-B6DC-47AB-86EA-438859E3D043" _position="18"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/18">
+            <exercici>2015</exercici>
+            <mat_ries>Noves Tecnologies i Societat Informació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/012</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lAgència per a la Competitivitat de lEmpresa, ACCIÓ, i el
+                Centre per al Desenvolupament Tecnològic Industrial, CDTI (Ministeri dEconomia i Competitivitat).
+            </t_tol_conveni>
+            <data_signatura>2015-06-30T00:00:00</data_signatura>
+            <durada>Durada indefinida que no pot excedir del 02/10/2020 per aplicació Llei 40/2015.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Subscriure un nou Pla dActuació, dacord amb el que estableix el Conveni signat el 16 de desembre
+                de 2005.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a la clàusula segona.</drets_i_obligacions>
+            <organismes_signants>Agència per a la Competitivitat de lEmpresa (ACCIÓ)</organismes_signants>
+            <altres_organismes_signants>Centre per al Desenvolupament Tecnològic Industrial (CDTI)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="19" _uuid="9340DA3B-AAB2-4889-8427-7DD16679E563" _position="19"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/19">
+            <exercici>2015</exercici>
+            <mat_ries>Agricultura, Ramaderia, Pesca, Alimentació i Medi</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/013</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Fons Espanyol de Garantia Agrària i lAdministració de la
+                Generalitat de Catalunya per a la realització dels treballs de control assistit per teledetecció de les
+                superfícies dels règims dajut inclosos a la Sol·licitud Única, a realitzar durant lany 2015.
+            </t_tol_conveni>
+            <data_signatura>2015-10-19T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Definir els termes i les condicions de col·laboració per al finançament dels règims dajut inclosos
+                a la Sol·licitud Única.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona i tercera.</drets_i_obligacions>
+            <organismes_signants>Departament dAgricultura, Ramaderia, Pesca i Alimentació</organismes_signants>
+            <altres_organismes_signants>Fons Espanyol de Garantia Agrària (FEGA)</altres_organismes_signants>
+            <total_despesa_organismes_signants>79265</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>111914.17</total_despesa_altres_organismes_signants>
+            <total_despesa>191179.17</total_despesa>
+        </row>
+        <row _id="20" _uuid="75810808-1043-40EC-9322-658466634126" _position="20"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/20">
+            <exercici>2015</exercici>
+            <mat_ries>Recerca</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/014</n_mero_conveni_definitiu>
+            <t_tol_conveni>Addenda al Conveni de col·laboració entre lAdministració general de lEstat, mitjançant el
+                Ministeri dEconomia i Competitivitat, lAdministració de la Generalitat de Catalunya, mitjançant el
+                Departament dEconomia i Coneixement, i la Universitat Politècnica de Catalunya, per a la creació,
+                construcció, equipament i explotació del Barcelona Supercomputing Center - Centre Nacional de
+                Supercomputació (BSC - CNS).
+            </t_tol_conveni>
+            <data_signatura>2015-11-06T00:00:00</data_signatura>
+            <data_vig_ncia>2019-12-31T00:00:00</data_vig_ncia>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Modificar el Conveni signat el 9 de març de 2015.</objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules primera i segona.&#xd;
+            </drets_i_obligacions>
+            <organismes_signants>Departament dEconomia i Coneixement</organismes_signants>
+            <altres_organismes_signants>Ministeri dEconomia i Competitivitat; Universitat Politècnica de Catalunya
+                (UPC)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>11317754.68</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>23246120</total_despesa_altres_organismes_signants>
+            <total_despesa>34563874.68</total_despesa>
+        </row>
+        <row _id="21" _uuid="8D957154-439E-48CB-94F0-020919C1B50A" _position="21"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/21">
+            <exercici>2015</exercici>
+            <mat_ries>Educació i formació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/015</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Ministeri dEducació, Cultura i Esport i lAdministració de
+                la Generalitat de Catalunya, mitjançant el Departament dEnsenyament i el Departament dEconomia i
+                Coneixement, per a la gestió de les beques i ajuts a lestudi corresponents al curs acadèmic 2015-2016.
+            </t_tol_conveni>
+            <data_signatura>2015-11-11T00:00:00</data_signatura>
+            <data_vig_ncia>2016-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Establir làmbit de col·laboració per a la gestió de les beques i ajuts a lestudi per al curs
+                2015-2016.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona a desena.</drets_i_obligacions>
+            <organismes_signants>Departament dEnsenyament; Departament dEconomia i Coneixement</organismes_signants>
+            <altres_organismes_signants>Ministeri dEducació, Cultura i Esport</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>68000000</total_despesa_altres_organismes_signants>
+            <total_despesa>68000000</total_despesa>
+        </row>
+        <row _id="22" _uuid="9ED5B5A1-0ED4-45C7-BE94-BBCC34DDFF76" _position="22"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/22">
+            <exercici>2015</exercici>
+            <mat_ries>Salut</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/016</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lInstitut de Salut Carles III i lAgència de Qualitat i
+                Avaluació Sanitàries de Catalunya, per al desenvolupament dactivitats davaluació de tecnologies en el
+                marc de la Xarxa Espanyola dAgències dAvaluació de Tecnologies Sanitàries i Prestacions del Sistema
+                Nacional de Salut.
+            </t_tol_conveni>
+            <data_signatura>2015-07-06T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Actualitzar i desenvolupar la cartera comuna de serveis del Sistema Nacional de Salut (SNS).
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament en les clàusules tercera i cinquena.</drets_i_obligacions>
+            <organismes_signants>Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQUAS)</organismes_signants>
+            <altres_organismes_signants>Institut de Salut Carles III</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>555000</total_despesa_altres_organismes_signants>
+            <total_despesa>555000</total_despesa>
+        </row>
+        <row _id="23" _uuid="6E98EB2A-8709-4E2C-B4C3-F9E66BF6A4AE" _position="23"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/23">
+            <exercici>2015</exercici>
+            <mat_ries>Agricultura, Ramaderia, Pesca i Alimentació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/017</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lAdministració general de lEstat, per mitjà del Ministeri
+                dAgricultura, Alimentació i Medi Ambient, i lAdministració de la Generalitat de Catalunya, mitjançant
+                el Departament dAgricultura, Ramaderia, Pesca i Alimentació, per a lassistència mútua i cooperació en
+                matèria de control i inspecció de lactivitat pesquera.
+            </t_tol_conveni>
+            <data_signatura>2015-12-21T00:00:00</data_signatura>
+            <data_vig_ncia>2019-12-21T00:00:00</data_vig_ncia>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Establir un marc dactuació conjunta en matèria de control i inspecció de lactivitat pesquera i
+                autoritzar lús de la patrullera lleugera "Lluerna".
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona, tercera i quarta del Conveni.
+            </drets_i_obligacions>
+            <organismes_signants>Departament dAgricultura, Ramaderia, Pesca i Alimentació</organismes_signants>
+            <altres_organismes_signants>Ministeri dAgricultura, Alimentació i Medi Ambient</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="24" _uuid="DC1707A0-58FA-4582-BCE2-4F60AC9FBECC" _position="24"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/24">
+            <exercici>2015</exercici>
+            <mat_ries>Medi ambient</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/018</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni entre el Ministeri dAgricultura, Alimentació i Medi Ambient, el Departament de
+                Territori i Sostenibilitat de la Generalitat de Catalunya i lAgència Catalana de lAigua per a la
+                cessió dús i explotació de les instal·lacions executades pel Ministeri dAgricultura, Alimentació i
+                Medi Ambient, mitjançant la Societat Estatal Aigües de les Conques Mediterrànies, SA (ACUAMED), de la
+                Xarxa dIndicadors Ambientals del Delta de lEbre.
+            </t_tol_conveni>
+            <data_signatura>2015-10-05T00:00:00</data_signatura>
+            <data_vig_ncia>2025-10-05T00:00:00</data_vig_ncia>
+            <durada>No pot excedir del 02/10/2020 per aplicació Llei 40/2015.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Fonamentar les bases per formalitzar el lliurament dels expedients i la cessió de lús i explotació
+                de la totalitat de les instal·lacions a lAgència Catalana de lAigua.
+            </objecte>
+            <organismes_signants>Agència Catalana de lAigua (ACA); Departament de Territori i Sostenibilitat
+            </organismes_signants>
+            <altres_organismes_signants>Ministeri dAgricultura, Alimentació i Medi Ambient</altres_organismes_signants>
+            <total_despesa_organismes_signants>63877.76</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>63877.76</total_despesa>
+        </row>
+        <row _id="25" _uuid="7556CF95-E785-4B29-A2AE-EF6BC538150C" _position="25"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/25">
+            <exercici>2015</exercici>
+            <mat_ries>Esports</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/019</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de cooperació educativa entre el Consell Superior dEsports i lInstitut Nacional
+                dEducació Física de Catalunya (INEFC) per a la realització de pràctiques acadèmiques externes
+                destudiants del Màster de Dret Esportiu de lINEFC.
+            </t_tol_conveni>
+            <data_signatura>2015-11-10T00:00:00</data_signatura>
+            <durada>Establerta pròrroga tàcita. No pot excedir del 02/10/2020 per aplicació Llei 40/2015.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Realitzar pràctiques externes dalumnes de lINEFC-UdL matriculats al Màster Universitari en Dret
+                Esportiu que oferti lINEFC-UdL.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament als acords segon a novè del conveni.</drets_i_obligacions>
+            <organismes_signants>Institut Nacional dEducació Física de Catalunya (INEFC)</organismes_signants>
+            <altres_organismes_signants>Consell Superior dEsports</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="26" _uuid="EB41A76A-3528-44B8-8F64-1FA0B76DC0D4" _position="26"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/26">
+            <exercici>2015</exercici>
+            <mat_ries>Recerca</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/020</n_mero_conveni_definitiu>
+            <t_tol_conveni>Quarta Addenda al Conveni de 21 de desembre de 2009 entre lAdministració General de lEstat
+                (Ministeri de Ciència i Innovació) i lAdministració de la Generalitat de Catalunya (Departament
+                dInnovació, Universitats i Empresa), pel qual es realitza una transferència a la Generalitat de
+                Catalunya per al finançament dinversions en matèria de recerca científica i tècnica.
+            </t_tol_conveni>
+            <data_signatura>2015-11-11T00:00:00</data_signatura>
+            <durada>Durada indeterminada que no pot excedir del 02/10/2020 per aplicació Llei 40/2015.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Modificar la clàusula segona, lAnnex I i lAnnex II del Conveni de 21 de desembre de 2009.
+            </objecte>
+            <organismes_signants>Departament dEconomia i Coneixement</organismes_signants>
+            <altres_organismes_signants>Ministeri dEconomia i Competitivitat</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="27" _uuid="F465047D-A5A3-4FE5-A535-0F79B207C731" _position="27"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/27">
+            <exercici>2015</exercici>
+            <mat_ries>Educació i formació</mat_ries>
+            <secci>2</secci>
+            <n_mero_conveni_definitiu>2015/2/021</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Ministeri dEducació, Cultura i Esport i lInstitut
+                Nacional dEducació Física de Catalunya, organisme autònom de la Generalitat de Catalunya per a la
+                gestió dels ajuts als àmbits dels subprogrames de formació i mobilitat del programa estatal de promoció
+                del talent i la seva ocupabilitat del Pla Estatal dInvestigació Científica i Tècnica i dInnovació
+                2013-2016 i altres actuacions de convocatòries dajudes per a la mobilitat destudiants i professors
+                universitaris.
+            </t_tol_conveni>
+            <data_signatura>2015-04-07T00:00:00</data_signatura>
+            <data_vig_ncia>2019-04-08T00:00:00</data_vig_ncia>
+            <durada>Prorrogable per dos anys més, per acord exprés de les parts.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Fixar el marc general de col·laboració entre les entitats signants per a la millor gestió de
+                diverses subvencions.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona a dotzena.</drets_i_obligacions>
+            <organismes_signants>Institut Nacional dEducació Física de Catalunya (INEFC)</organismes_signants>
+            <altres_organismes_signants>Ministeri dEducació, Cultura i Esport</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="28" _uuid="B89CC32D-0211-4B9C-ADAB-89105FFC86B1" _position="28"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/28">
+            <exercici>2015</exercici>
+            <mat_ries>Justícia</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/001</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord de col·laboració per a la promoció de la mediació, entre el Consell General del Poder
+                Judicial i el Departament de Justícia de la Generalitat de Catalunya.
+            </t_tol_conveni>
+            <data_signatura>2015-04-27T00:00:00</data_signatura>
+            <data_vig_ncia>2017-04-27T00:00:00</data_vig_ncia>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Establir les condicions per a limpuls de la mediació i daltres formes pacífiques de resolució de
+                conflictes com a fórmula alternativa i complementària al procés judicial.
+            </objecte>
+            <organismes_signants>Departament de Justícia</organismes_signants>
+            <altres_organismes_signants>Consell General del Poder Judicial (CGPJ)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="29" _uuid="10E4550C-B4D2-4B13-96BD-E66DA913287D" _position="29"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/29">
+            <exercici>2015</exercici>
+            <mat_ries>Cultura</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/0011</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Parlament de Catalunya i la Biblioteca de Catalunya per al
+                projecte CANTIC (Catàleg dautoritats de noms i títols de Catalunya).
+            </t_tol_conveni>
+            <data_signatura>2015-07-08T00:00:00</data_signatura>
+            <data_vig_ncia>2019-07-08T00:00:00</data_vig_ncia>
+            <durada>Prorrogable mitjançant addendes, llevat de denúncia expresa de les parts.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Dur a terme el projecte CANTIC (Catàleg dautoritats de noms i títols de Catalunya).</objecte>
+            <drets_i_obligacions>Continguts bàsicament en les clàusules segona i tercera del conveni.
+            </drets_i_obligacions>
+            <organismes_signants>Biblioteca de Catalunya</organismes_signants>
+            <altres_organismes_signants>Parlament de Catalunya</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="30" _uuid="41838AB7-EE4B-49F3-A345-F21A91A52C1A" _position="30"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/30">
+            <exercici>2015</exercici>
+            <mat_ries>Transparència</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/002</n_mero_conveni_definitiu>
+            <t_tol_conveni>Addenda de modificació del Conveni de col·laboració signat en data 23 de juliol de 2013 entre
+                lEntitat Autònoma del Diari Oficial i de Publicacions i el Consell de Garanties Estatutàries.
+            </t_tol_conveni>
+            <data_signatura>2015-06-26T00:00:00</data_signatura>
+            <data_vig_ncia>2016-06-26T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Modificar el Conveni de col·laboració de data 23 de juliol de 2013.</objecte>
+            <organismes_signants>Entitat Autònoma del Diari Oficial i de Publicacions de la Generalitat de Catalunya
+                (EADOP)
+            </organismes_signants>
+            <altres_organismes_signants>Consell de Garanties Estatutàries</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="31" _uuid="1D4E86EC-CBB4-4772-80F1-51A3116F6608" _position="31"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/31">
+            <exercici>2015</exercici>
+            <mat_ries>Justícia</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/003</n_mero_conveni_definitiu>
+            <t_tol_conveni>Pròrroga del Conveni entre el Consell General del Poder Judicial i lAdministració de la
+                Generalitat de Catalunya, mitjançant el Departament de Justícia, en matèria de formació continuada de
+                magistrats i jutges amb destinació als òrgans judicials de Catalunya.
+            </t_tol_conveni>
+            <data_signatura>2015-07-21T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Formació continuada per a magistrats i jutges amb destinació als òrgans judicials a Catalunya per a
+                lany 2015.
+            </objecte>
+            <organismes_signants>Departament de Justícia</organismes_signants>
+            <altres_organismes_signants>Consell General del Poder Judicial (CGPJ)</altres_organismes_signants>
+            <total_despesa_organismes_signants>52198</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>52198</total_despesa_altres_organismes_signants>
+            <total_despesa>104396</total_despesa>
+        </row>
+        <row _id="32" _uuid="8C5E073A-E87A-4596-BE91-6DF095C32C10" _position="32"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/32">
+            <exercici>2015</exercici>
+            <mat_ries>Justícia</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/004</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Consell General del Poder Judicial, lAdministració de la
+                Generalitat de Catalunya, mitjançant el Departament de Justícia, i el Centre dEstudis Jurídics i
+                Formació Especialitzada, sobre lAula Iberoamericana del Consell General del Poder Judicial, per a les
+                activitats corresponents a lany 2015.
+            </t_tol_conveni>
+            <data_signatura>2015-07-27T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Dur a terme lactivitat formativa de lAula Iberoamericana prevista pel Consell General del Poder
+                Judicial, per a lany 2015.
+            </objecte>
+            <organismes_signants>Departament de Justícia; Centre dEstudis Jurídics i Formació Especialitzada (CEJFE)
+            </organismes_signants>
+            <altres_organismes_signants>Consell General del Poder Judicial (CGPJ)</altres_organismes_signants>
+            <total_despesa_organismes_signants>10000</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>10000</total_despesa>
+        </row>
+        <row _id="33" _uuid="95F8D2E6-52C2-4C63-B895-0B8D6478C32D" _position="33"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/33">
+            <exercici>2015</exercici>
+            <mat_ries>Justícia</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/005</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord de col·laboració entre lAdministració de la Generalitat de Catalunya, mitjançant el
+                Departament de Justícia i el Centre dEstudis Jurídics i Formació Especialitzada, la Fiscalia Superior
+                de Catalunya i la Fundació Bancària "La Caixa", per a la col·laboració en la lluita contra els delictes
+                dodi i discriminació.
+            </t_tol_conveni>
+            <data_signatura>2015-07-27T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Col·laborar en la lluita contra els delictes dodi i discriminació.</objecte>
+            <organismes_signants>Departament de Justícia; Centre dEstudis Jurídics i Formació Especialitzada (CEJFE)
+            </organismes_signants>
+            <altres_organismes_signants>Fiscalia Superior de Catalunya; Fundació Bancària Caixa dEstalvis i Pensions de
+                Barcelona (Fundació Bancària la Caixa)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>28950</total_despesa_altres_organismes_signants>
+            <total_despesa>28950</total_despesa>
+        </row>
+        <row _id="34" _uuid="1A37862E-D654-400D-B84F-F2B935FF107A" _position="34"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/34">
+            <exercici>2015</exercici>
+            <mat_ries>Patrimoni, transferències i altres despeses</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/006</n_mero_conveni_definitiu>
+            <t_tol_conveni>Segona Addenda al Conveni signat en data 23 de juny de 2004 entre el Departament de la
+                Presidència, el Departament de Governació i Relacions Institucionals (abans Departament de Relacions
+                Institucionals i Participació) i el Consell de Garanties Estatutàries de la Generalitat de Catalunya
+                (abans Consell Consultiu de la Generalitat de Catalunya), en relació amb la gestió del Palau Centelles i
+                el seu edifici annex.
+            </t_tol_conveni>
+            <data_signatura>2015-11-05T00:00:00</data_signatura>
+            <durada>Derivat de conveni de durada indefinida, limitada al 2/10/2020 per la Llei 40/2015.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Modificar el Conveni signat el 23 de juny de 2004 i lAddenda de 30 de desembre de 2013.</objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules primera i segona.</drets_i_obligacions>
+            <organismes_signants>Departament de la Presidència; Departament de Governació i Relacions Institucionals
+            </organismes_signants>
+            <altres_organismes_signants>Consell de Garanties Estatutàries</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="35" _uuid="416BA17B-22D7-4F03-9660-25B062151F00" _position="35"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/35">
+            <exercici>2015</exercici>
+            <mat_ries>Cooperació, cultura pau i prevenció conflictes</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/007</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lAgència Catalana de Cooperació al Desenvolupament de la
+                Generalitat de Catalunya i el Consell de Garanties Estatutàries de Catalunya per a lexercici de les
+                funcions de coordinació i suport del projecte "Pau i Constitucionalitat" 2015.
+            </t_tol_conveni>
+            <data_signatura>2015-11-11T00:00:00</data_signatura>
+            <data_vig_ncia>2016-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Participar en lexecució del seminari a realitzar a la República Dominicana el mes de novembre de
+                2015.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona i quarta a sisena.</drets_i_obligacions>
+            <organismes_signants>Agència Catalana de Cooperació al Desenvolupament (ACCD)</organismes_signants>
+            <altres_organismes_signants>Consell de Garanties Estatutàries</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="36" _uuid="910032E1-7A3B-4082-AED9-02EA8E39FF3A" _position="36"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/36">
+            <exercici>2015</exercici>
+            <mat_ries>Justícia</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/008</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni marc de col·laboració entre lOficina Antifrau de Catalunya i el Centre dEstudis
+                Jurídics i Formació Especialitzada per establir línies de col·laboració en activitats de formació i
+                investigació relacionades amb la prevenció i el control de la corrupció.
+            </t_tol_conveni>
+            <data_signatura>2015-12-10T00:00:00</data_signatura>
+            <durada>Conveni de durada indefinida que no pot excedir del 02/10/2020 per aplicació Llei 40/2015.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Establir un marc de col·laboració en activitats de formació, investigació i documentació.</objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules primera, segona i tercera.</drets_i_obligacions>
+            <organismes_signants>Centre dEstudis Jurídics i Formació Especialitzada (CEJFE)</organismes_signants>
+            <altres_organismes_signants>Oficina Antifrau de Catalunya</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="37" _uuid="06BC42B7-43C4-4710-8EBF-EEE3C8C62D11" _position="37"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/37">
+            <exercici>2015</exercici>
+            <mat_ries>Economia i Coneixement</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/009</n_mero_conveni_definitiu>
+            <t_tol_conveni>Addenda al Conveni signat entre el Departament dEconomia i la Sindicatura de Comptes de
+                Catalunya per la tramesa de la informació prevista en larticle 29 del text refós de la Llei de
+                Contractes del Sector Públic.
+            </t_tol_conveni>
+            <data_signatura>2015-12-18T00:00:00</data_signatura>
+            <data_vig_ncia>2016-02-18T00:00:00</data_vig_ncia>
+            <durada>Pròrroga tàcita prevista que no pot excedir del 02/10/2020 per aplicació Llei 40/2015.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Definir les funcionalitats que ha de tenir el Registre Públic de Contractes i les condicions de la
+                tramesa a la Sindicatura de Comptes de les dades que hi figuren inscrites.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a la clàusula primera.</drets_i_obligacions>
+            <organismes_signants>Departament dEconomia i Coneixement</organismes_signants>
+            <altres_organismes_signants>Sindicatura de Comptes</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="38" _uuid="EF9EA7B5-4517-43C6-B114-3C1D4EEA4FB8" _position="38"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/38">
+            <exercici>2015</exercici>
+            <mat_ries>Justícia</mat_ries>
+            <secci>3</secci>
+            <n_mero_conveni_definitiu>2015/3/010</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Consell General del Poder Judicial, lAdministració de la
+                Generalitat de Catalunya, mitjançant el Departament de Justícia i el Centre dEstudis Jurídics i
+                Formació Especialitzada, i la Universitat Oberta de Catalunya.
+            </t_tol_conveni>
+            <data_signatura>2015-11-18T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>En el marc de la formació per a jutges i magistrats, establir el programa de dret civil català i
+                reconèixer com a títol oficial el certificat expedit per la Fundació per a la Universitat Oberta de
+                Catalunya.
+            </objecte>
+            <organismes_signants>Departament de Justícia</organismes_signants>
+            <altres_organismes_signants>Consell General del Poder Judicial (CGPJ); Fundació Universitat Oberta de
+                Catalunya (FUOC)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>36425</total_despesa_altres_organismes_signants>
+            <total_despesa>36425</total_despesa>
+        </row>
+        <row _id="39" _uuid="3C67256C-4815-40FD-A32A-B2CF054C7ECD" _position="39"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/39">
+            <exercici>2015</exercici>
+            <mat_ries>Infraestructures i obres públiques</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/001</n_mero_conveni_definitiu>
+            <t_tol_conveni>Protocol dEntesa entre la Generalitat de Catalunya i el Govern dAndorra relatiu a la
+                cogestió i la promoció de lAeroport dAndorra - La Seu.
+            </t_tol_conveni>
+            <data_signatura>2015-01-08T00:00:00</data_signatura>
+            <data_vig_ncia>2020-01-08T00:00:00</data_vig_ncia>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Coordinar la cogestió i la promoció conjunta de lAeroport Andorra - La Seu.</objecte>
+            <organismes_signants>Departament de Territori i Sostenibilitat</organismes_signants>
+            <altres_organismes_signants>Ministeri dEconomia i Territori (Govern dAndorra)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="40" _uuid="3D1E43B6-0E0E-4951-93A6-D86DEBC53A95" _position="40"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/40">
+            <exercici>2015</exercici>
+            <mat_ries>Col·laboració intergovernamental</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/002</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord de Col·laboració entre el Govern de Jiangsu (Xina) i el Govern de la Generalitat de
+                Catalunya.
+            </t_tol_conveni>
+            <data_signatura>2015-07-08T00:00:00</data_signatura>
+            <data_vig_ncia>2019-07-08T00:00:00</data_vig_ncia>
+            <durada>Prorrogable tàcitament per períodes successius de dos anys, amb un màxim de quatre anys, llevat de
+                denúncia expressa i per escrit dalgun dels signants.
+            </durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Establir un marc de col·laboració que permeti als signants definir, de manera conjunta, projectes
+                que permetin afavorir la cooperació en els àmbits de la seva competència.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament en els pactes segon i tercer de lAcord de col·laboració.
+            </drets_i_obligacions>
+            <organismes_signants>Govern de la Generalitat de Catalunya</organismes_signants>
+            <altres_organismes_signants>Govern de Jiangsu (República Popular de la Xina)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="41" _uuid="3C8DC0D0-0B74-44CE-8A03-350733B245DA" _position="41"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/41">
+            <exercici>2015</exercici>
+            <mat_ries>Cooperació transfronterera</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/003</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord marc de cooperació transfronterera entre el Consell General dels Pirineus Orientals i
+                la Generalitat de Catalunya.
+            </t_tol_conveni>
+            <data_signatura>2015-02-05T00:00:00</data_signatura>
+            <data_vig_ncia>2019-02-05T00:00:00</data_vig_ncia>
+            <durada>Prorrogable per un període de 4 anys previ acord de les entitats signatàries.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Estrènyer els vincles institucionals i consolidar la col·laboració entre el Consell General dels
+                Pirineus Orientals i la Generalitat de Catalunya.
+            </objecte>
+            <organismes_signants>Departament de la Presidència</organismes_signants>
+            <altres_organismes_signants>Consell General dels Pirineus Orientals (França)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="42" _uuid="E32D8F86-3C3A-4960-A93C-8387DA5965DC" _position="42"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/42">
+            <exercici>2015</exercici>
+            <mat_ries>Salut</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/004</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre el Servei Català de la Salut i lOficina de Gestió dels Drets
+                Individuals (PMO) de la Comissió Europea, per a lordenació de lassistència sanitària al personal al
+                servei de les institucions europees.
+            </t_tol_conveni>
+            <data_signatura>2015-01-23T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <durada>Prorrogable per períodes anuals amb acord tàcit entre les parts que té efectes automàticament.
+            </durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Regular laccés als serveis assistencials sanitaris públics del personal al servei de les
+                institucions europees residents a Catalunya o establerts de manera permanent en el territori.
+            </objecte>
+            <organismes_signants>Servei Català de la Salut</organismes_signants>
+            <altres_organismes_signants>Oficina de Gestió i Liquidació dels Drets Individuals (PMO) - Comissió Europea
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="43" _uuid="7582FB69-6D0F-4AA3-A76E-978B53F80AB0" _position="43"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/43">
+            <exercici>2015</exercici>
+            <mat_ries>Salut</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/005</n_mero_conveni_definitiu>
+            <t_tol_conveni>Memoràndum dEntesa entre la Fundació TicSalut i el Centre Escocès de Salut Electrònica i
+                Teleassistència Sanitària, NHS 24.
+            </t_tol_conveni>
+            <data_signatura>2015-11-24T00:00:00</data_signatura>
+            <data_vig_ncia>2019-11-24T00:00:00</data_vig_ncia>
+            <durada>Prorrogable per consentiment mutu i per escrit de les parts.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Intercanviar coneixements en la innovació i prestació dun model actiu de TIC de serveis i suport a
+                latenció integrada social i sanitària, i en el desenvolupament de solucions de salut electrònica,
+                teleassistència sanitària, salut en línia, salut mòbil i salut basada en la tecnologia.
+            </objecte>
+            <organismes_signants>Fundació TicSalut</organismes_signants>
+            <altres_organismes_signants>Centre Escocès de Salut Electrònica i Teleassistència Sanitària, NHS 24
+                (Escòcia)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="44" _uuid="49A97600-786A-4A05-AC0F-C444A5CF728C" _position="44"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/44">
+            <exercici>2015</exercici>
+            <mat_ries>Política lingüística</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/006</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord de col·laboració entre lInstitut Ramon Llull i el Departament dEnsenyament Superior i
+                Recerca del Ministeri dEducació i Joventut del Govern dAndorra per a la regulació del Campus
+                universitari de la llengua catalana 2015.
+            </t_tol_conveni>
+            <data_signatura>2015-02-27T00:00:00</data_signatura>
+            <data_vig_ncia>2015-12-31T00:00:00</data_vig_ncia>
+            <vigent>No</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Organitzar el Campus universitari de la llengua catalana 2015.</objecte>
+            <organismes_signants>Institut Ramon Llull</organismes_signants>
+            <altres_organismes_signants>Ministeri dEducació i Joventut (Govern dAndorra)</altres_organismes_signants>
+            <total_despesa_organismes_signants>6300</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>6300</total_despesa>
+        </row>
+        <row _id="45" _uuid="211E4A46-685C-4C8F-BC9D-145548475E4F" _position="45"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/45">
+            <exercici>2015</exercici>
+            <mat_ries>Cultura</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/007</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lAdministració de la Generalitat de Catalunya i la Biblioteca
+                Nacional IIia Chavchavadze del Parlament de Geòrgia per a la cooperació i intercanvi dexperiències i
+                bones pràctiques entre les biblioteques dels dos països.
+            </t_tol_conveni>
+            <data_signatura>2015-03-03T00:00:00</data_signatura>
+            <data_vig_ncia>2018-03-03T00:00:00</data_vig_ncia>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Establir relacions de cooperació i intercanvi dexperiències i bones pràctiques entre les
+                biblioteques dels dos països.
+            </objecte>
+            <organismes_signants>Departament de Cultura</organismes_signants>
+            <altres_organismes_signants>Biblioteca Nacional IIia Chavchavadze del Parlament de Geòrgia
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="46" _uuid="D47BA982-2286-4130-9E81-51E655BBD6C7" _position="46"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/46">
+            <exercici>2015</exercici>
+            <mat_ries>Salut</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/0073</n_mero_conveni_definitiu>
+            <t_tol_conveni>Memoràndum dEntesa entre el Ministeri de Salut de la República del Perú i lAdministració de
+                la Generalitat de Catalunya, a través del Departament de Salut, per a la col·laboració en làmbit de la
+                salut.
+            </t_tol_conveni>
+            <data_signatura>2015-12-15T00:00:00</data_signatura>
+            <data_vig_ncia>2020-12-15T00:00:00</data_vig_ncia>
+            <durada>Prorrogable per acord exprés de les parts.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Promoure lintercanvi dexperiències, la transferència de coneixement tecnològic, el
+                desenvolupament de capacitats del personal de salut, la investigació col·laborativa i la consulta
+                recíproca.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament en les clàusules segona, quarta i cinquena.</drets_i_obligacions>
+            <organismes_signants>Departament de Salut</organismes_signants>
+            <altres_organismes_signants>Ministeri de Salut (República del Perú)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="47" _uuid="EB7B7A10-482B-46DD-9FF4-3D17EEB4096E" _position="47"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/47">
+            <exercici>2015</exercici>
+            <mat_ries>Salut</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/0074</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre lAdministració de la Generalitat de Catalunya, mitjançant el
+                Departament de Salut, lInstitut Català de la Salut i la Universitat dAndorra per a la formació de
+                llevadores.
+            </t_tol_conveni>
+            <data_signatura>2015-10-15T00:00:00</data_signatura>
+            <data_vig_ncia>2017-12-31T00:00:00</data_vig_ncia>
+            <durada>Prorrogable per acord exprés de les parts.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Formació teòrica i pràctiques formatives clíniques de lespecialitat dInfermeria
+                Obstetricoginecològica (llevador/a).
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament a les clàusules segona a setena, onzena i dotzena.
+            </drets_i_obligacions>
+            <organismes_signants>Departament de Salut; Institut Català de la Salut (ICS)</organismes_signants>
+            <altres_organismes_signants>Universitat dAndorra</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>14920</total_despesa_altres_organismes_signants>
+            <total_despesa>14920</total_despesa>
+        </row>
+        <row _id="48" _uuid="4E90965A-2EF3-4B42-8A13-AF67DF1BAA01" _position="48"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/48">
+            <exercici>2015</exercici>
+            <mat_ries>Salut</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/0075</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni Marc entre lAdministració de la Generalitat de Catalunya, mitjançant el Departament
+                de Salut, i el Ministeri de Salut de la República de Guinea, per a la col·laboració en matèria de
+                formació de professionals sanitaris a la República de Guinea i lestudi, desenvolupament i posada en
+                funcionament de les especialitats medicoquirúrgiques.
+            </t_tol_conveni>
+            <data_signatura>2015-08-05T00:00:00</data_signatura>
+            <data_vig_ncia>2018-08-05T00:00:00</data_vig_ncia>
+            <durada>Prorrogable per mutu acord de les parts per escrit.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Dur a terme la formació de professionals de la salut i de lestudi, el desenvolupament i posada en
+                funcionament de les especialitats medicoquirúrgiques.
+            </objecte>
+            <organismes_signants>Departament de Salut</organismes_signants>
+            <altres_organismes_signants>Ministeri de Salut de la República de Guinea</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="60" _uuid="AE4B311C-4F62-436B-9FC2-3B606EC20B40" _position="60"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/60">
+            <exercici>2015</exercici>
+            <mat_ries>Política lingüística</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/013</n_mero_conveni_definitiu>
+            <t_tol_conveni>Conveni de col·laboració entre la Facultat de Filosofia, Lletres i Ciències Humanes de la
+                Universitat de Sao Paulo i lInstitut Ramon Llull.
+            </t_tol_conveni>
+            <data_signatura>2015-03-17T00:00:00</data_signatura>
+            <data_vig_ncia>2019-12-31T00:00:00</data_vig_ncia>
+            <vigent>Sí</vigent>
+            <prorrogable>No</prorrogable>
+            <objecte>Introduir i impulsar els estudis catalans i realtzar activitats acadèmiques i de recerca que
+                contribueixin a la seva promoció i difusió.
+            </objecte>
+            <organismes_signants>Institut Ramon Llull</organismes_signants>
+            <altres_organismes_signants>Universitat de Sao Paulo (Brasil)</altres_organismes_signants>
+            <total_despesa_organismes_signants>10125</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>10125</total_despesa>
+        </row>
+        <row _id="49" _uuid="4614A86C-D32C-46B1-891F-2CCD4E9D1278" _position="49"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/49">
+            <exercici>2015</exercici>
+            <mat_ries>Esports</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/0076</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord de col·laboració entre lInstitut Nacional dEducació Física de Catalunya i la
+                Universitat de Ciències Aplicades i Ambientals.
+            </t_tol_conveni>
+            <data_signatura>2015-03-20T00:00:00</data_signatura>
+            <data_vig_ncia>2017-03-20T00:00:00</data_vig_ncia>
+            <durada>Renovació anual tàcita, excepte manifestació en sentit contrari.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Establir un marc de col·laboració entre les parts en làmbit de la formació, la investigació i
+                lintercanvi dinformació en matèria deducació física i esport.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament als acords tercer a cinquè.</drets_i_obligacions>
+            <organismes_signants>Institut Nacional dEducació Física de Catalunya (INEFC)</organismes_signants>
+            <altres_organismes_signants>Universidad de Ciencias Aplicadas y Ambientales (Colòmbia)
+            </altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+        <row _id="50" _uuid="30156E45-5C58-4864-98B4-37E8D9B0F5A3" _position="50"
+             _address="https://analisi.transparenciacatalunya.cat/resource/bmns-xzi7/50">
+            <exercici>2015</exercici>
+            <mat_ries>Esports</mat_ries>
+            <secci>4</secci>
+            <n_mero_conveni_definitiu>2015/4/0077</n_mero_conveni_definitiu>
+            <t_tol_conveni>Acord de col·laboració entre lInstitut Nacional dEducació Física de Catalunya i la
+                Universitat dAntioquia (Colòmbia).
+            </t_tol_conveni>
+            <data_signatura>2015-06-19T00:00:00</data_signatura>
+            <data_vig_ncia>2017-06-19T00:00:00</data_vig_ncia>
+            <durada>Renovable anualment mitjançant acta subscrita per totes dues parts.</durada>
+            <vigent>Sí</vigent>
+            <prorrogable>Sí</prorrogable>
+            <objecte>Establir el marc de col·laboració entre les parts en làmbit de la formació, la investigació i
+                lintercanvi dinformació en matèria deducació física i esport.
+            </objecte>
+            <drets_i_obligacions>Continguts bàsicament als acords tercer a cinquè.</drets_i_obligacions>
+            <organismes_signants>Institut Nacional dEducació Física de Catalunya (INEFC)</organismes_signants>
+            <altres_organismes_signants>Universitat dAntioquia (Colòmbia)</altres_organismes_signants>
+            <total_despesa_organismes_signants>0</total_despesa_organismes_signants>
+            <total_despesa_organismes_signants_ens_locals>0</total_despesa_organismes_signants_ens_locals>
+            <total_despesa_altres_organismes_signants>0</total_despesa_altres_organismes_signants>
+            <total_despesa>0</total_despesa>
+        </row>
+    </row>
+</response>

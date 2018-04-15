@@ -48,7 +48,7 @@
 </ul>
 <ul>
     <li>
-        <a href="ejercicio_6.php">
+        <a href="ej_export_postgresql_2.php">
             Export XML a una base de datos PostgreSQL - query XPath
         </a>
     </li>

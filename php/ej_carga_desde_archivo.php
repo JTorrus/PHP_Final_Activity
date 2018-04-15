@@ -1,15 +1,3 @@
-<?php
-header('Content-Type:text/xml');
-
-$xmlFile = simplexml_load_file("../xml/doc_1.xml");
-
-if (!empty($xmlFile)) {
-    echo $xmlFile->asXML();
-} else {
-    echo "There was an error loading the XML file";
-}
-?>
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -21,10 +9,21 @@ if (!empty($xmlFile)) {
 </head>
 <body>
 <h1>
-    <a href="generate_file">
-
+    <a href="../file_generators/gen_carga_desde_archivo.php">
+        Generar fichero XML
     </a>
 </h1>
 
 </body>
 </html>
+
+<?php
+header('Content-Type:text/xml');
+
+$xmlFile = simplexml_load_file("../xml/doc_1.xml");
+
+if (!empty($xmlFile)) {
+    echo $xmlFile->asXML();
+} else {
+    echo "There was an error loading the XML file";
+}
