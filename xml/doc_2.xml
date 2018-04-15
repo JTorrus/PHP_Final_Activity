@@ -1,0 +1,1492 @@
+<response>
+    <row>
+        <row _id="1" _uuid="EC1C02C8-8DB9-4FD3-9B2E-C8B2BCFB8BD6" _position="1"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/1">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1731042.33</import>
+            <any>2011</any>
+            <linia_ajut>Ajut de pagament únic</linia_ajut>
+            <beneficiaris>1442</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="2" _uuid="E9B958A2-1F9F-429A-910D-1514AC6DEA51" _position="2"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/2">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>838.01</import>
+            <any>2011</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions que mantinguin
+                vaques alletants
+            </linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="3" _uuid="6AD776E6-B3A7-4C15-A586-0070093ED924" _position="3"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/3">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2028.87</import>
+            <any>2011</any>
+            <linia_ajut>Ajut per la millora de qualitat de la carn de boví</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="4" _uuid="80D482EC-45A5-4526-87DF-BCCADAA8BDBC" _position="4"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/4">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1408236.68</import>
+            <any>2011</any>
+            <linia_ajut>Ajuts als fruits de closca</linia_ajut>
+            <beneficiaris>1157</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="5" _uuid="E4BB1DB6-6535-4FD5-B226-4741B90FC486" _position="5"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/5">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>17400.89</import>
+            <any>2011</any>
+            <linia_ajut>Prima pel sacrifici de bovins</linia_ajut>
+            <beneficiaris>3</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="6" _uuid="27F1964D-D318-4655-8998-F8E2F435CD49" _position="6"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/6">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>5023.36</import>
+            <any>2011</any>
+            <linia_ajut>Prima per vaca alletant i prima complementària</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="7" _uuid="88ED720F-6E41-417D-8A37-1402E8435D13" _position="7"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/7">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2139304.95</import>
+            <any>2011</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>170</beneficiaris>
+            <superficie>254</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="8" _uuid="50E9B62E-E810-459A-8A76-BA9354172C13" _position="8"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/8">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>30932.78</import>
+            <any>2012</any>
+            <linia_ajut>Ajut al foment d’activitats agrícoles beneficioses pel mediambient en el sector dels fruits de
+                closca
+            </linia_ajut>
+            <beneficiaris>72</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="9" _uuid="3C6BDF34-25EC-4F39-9926-06070E23601E" _position="9"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/9">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2796166.93</import>
+            <any>2012</any>
+            <linia_ajut>Ajut de pagament únic</linia_ajut>
+            <beneficiaris>1794</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="10" _uuid="98919ABD-898A-44AC-A0EB-D5378C53D8AB" _position="10"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/10">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>874.04</import>
+            <any>2012</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions que mantinguin
+                vaques alletants
+            </linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="11" _uuid="D143ADF3-2EF2-49BC-8032-F153CA3FBBE8" _position="11"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/11">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2073.71</import>
+            <any>2012</any>
+            <linia_ajut>Ajut per la millora de qualitat de la carn de boví</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="12" _uuid="12994E47-F618-42B3-B3BD-E47C2E7017DE" _position="12"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/12">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>276938.66</import>
+            <any>2012</any>
+            <linia_ajut>Ajuts als fruits de closca</linia_ajut>
+            <beneficiaris>1150</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="13" _uuid="50DC79CE-7B27-4BB8-A81B-B25EB325BB21" _position="13"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/13">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>4586.34</import>
+            <any>2012</any>
+            <linia_ajut>Prima per vaca alletant i prima complementària</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="14" _uuid="3304BD67-8E1A-4194-9CD1-9544F333F7EF" _position="14"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/14">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2325299.41</import>
+            <any>2012</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>188</beneficiaris>
+            <superficie>291</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="15" _uuid="BB7EF41E-C970-4489-8049-B840F2D03D28" _position="15"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/15">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>21154</import>
+            <any>2013</any>
+            <linia_ajut>Ajut al foment d’activitats agrícoles beneficioses pel mediambient en el sector dels fruits de
+                closca
+            </linia_ajut>
+            <beneficiaris>64</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="16" _uuid="2F9D7616-F3E2-438B-AB39-3B73736E630E" _position="16"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/16">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut al foment de la qualitat dels llegums</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="17" _uuid="4D0503EA-2DE1-41E8-898F-912CE87A4311" _position="17"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/17">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2804428</import>
+            <any>2013</any>
+            <linia_ajut>Ajut de pagament únic</linia_ajut>
+            <beneficiaris>1740</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="18" _uuid="BF027116-CED2-4937-BFA8-A1662CB354BC" _position="18"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/18">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>802</import>
+            <any>2013</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions que mantinguin
+                vaques alletants
+            </linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="19" _uuid="6B352D62-24BF-4A1B-B7C2-871A4F778791" _position="19"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/19">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions d’oví
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="20" _uuid="E748F484-3D3F-4F59-A515-5E72F0D79950" _position="20"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/20">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions de cabrum
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="21" _uuid="717107B9-9D41-4C64-B128-BEB6C522E0CC" _position="21"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/21">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions de vaquí de llet
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="22" _uuid="8105BCC3-FB90-41BB-A412-AF8A6D404208" _position="22"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/22">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut per la millora de la qualitat de la llet i els productes làctics de vaca</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="23" _uuid="D41A77E2-AEB6-4D48-B82A-0C008D01948C" _position="23"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/23">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut per la millora de la qualitat de les produccions d'oví-cabrum</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="24" _uuid="FE0507B9-DD7F-4600-96CF-B7D5FCA23358" _position="24"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/24">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2082</import>
+            <any>2013</any>
+            <linia_ajut>Ajut per la millora de qualitat de la carn de boví</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="25" _uuid="DA18D42D-1A7C-4240-BE96-1DB76C507B57" _position="25"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/25">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>145563</import>
+            <any>2013</any>
+            <linia_ajut>Ajuts als fruits de closca</linia_ajut>
+            <beneficiaris>1107</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="26" _uuid="085AD990-B5FB-40EA-91B7-A948BBD383A5" _position="26"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/26">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>4436.96</import>
+            <any>2013</any>
+            <linia_ajut>Prima per vaca alletant i prima complementària</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="27" _uuid="A36F3950-5069-47F6-9501-FE4FCDBD68E8" _position="27"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/27">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2558949.82</import>
+            <any>2013</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>191</beneficiaris>
+            <superficie>308</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="28" _uuid="2DA65778-1CD8-466F-9FC3-1F03965E9D17" _position="28"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/28">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>9745</import>
+            <any>2014</any>
+            <linia_ajut>Ajut al foment d’activitats agrícoles beneficioses pel mediambient en el sector dels fruits de
+                closca
+            </linia_ajut>
+            <beneficiaris>32</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="29" _uuid="CF07148E-C279-4891-885A-498A883987F2" _position="29"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/29">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut al foment de la qualitat dels llegums</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="30" _uuid="3D95C7DE-4243-4C97-BDBD-66FA7302D70B" _position="30"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/30">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2663731.52</import>
+            <any>2014</any>
+            <linia_ajut>Ajut de pagament únic</linia_ajut>
+            <beneficiaris>1632</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="31" _uuid="B93B00DE-6755-4FB4-A7CE-F295B4BE947F" _position="31"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/31">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>828</import>
+            <any>2014</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions que mantinguin
+                vaques alletants
+            </linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="32" _uuid="115B2EEA-6FE7-43E0-92C2-99C9C4CD0392" _position="32"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/32">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions d’oví
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="33" _uuid="0443DC45-A3A2-40A5-98E5-308986E37606" _position="33"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/33">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions de cabrum
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="34" _uuid="56AF8540-851B-4212-AFDE-DBA9AAB29BBD" _position="34"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/34">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions de vaquí de llet
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="35" _uuid="BD3116C4-2DE9-4B2A-9E7A-7928605B46C8" _position="35"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/35">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut per la millora de la qualitat de la llet i els productes làctics de vaca</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="36" _uuid="3DDD1E9C-F21D-43E5-949A-FA9D65D3D040" _position="36"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/36">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut per la millora de la qualitat de les produccions d'oví-cabrum</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="37" _uuid="2633AE60-B931-4141-8C11-8A6BEF724C4B" _position="37"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/37">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut per la millora de qualitat de la carn de boví</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="38" _uuid="FE733D55-0DC8-4EA8-BBD6-4F007AE8CFC7" _position="38"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/38">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>40069</import>
+            <any>2014</any>
+            <linia_ajut>Ajuts als fruits de closca</linia_ajut>
+            <beneficiaris>1052</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="39" _uuid="CA8D51FA-3291-4647-B7EB-03478590A8AD" _position="39"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/39">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>4440</import>
+            <any>2014</any>
+            <linia_ajut>Prima per vaca alletant i prima complementària</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="40" _uuid="07F9D37E-3EB8-4DAD-B2AE-9623AA41AC5C" _position="40"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/40">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>998089.50</import>
+            <any>2014</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>113</beneficiaris>
+            <superficie>157</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="41" _uuid="E2DEEC1B-FA39-4FD5-9E63-4D31B2862097" _position="41"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/41">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat al cultiu de l'arròs</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="42" _uuid="414DD53C-B95F-4562-812D-CCB64D0ACE56" _position="42"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/42">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat al tomàquet per a indústria</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="43" _uuid="4B6A5513-677A-4EDE-BB14-29C020D5474C" _position="43"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/43">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>5841</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat als cultius proteics</linia_ajut>
+            <beneficiaris>10</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="44" _uuid="07CA48C3-1C2C-4098-B46D-BE1C064C98BC" _position="44"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/44">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>36330.90</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat als fruits de closca</linia_ajut>
+            <beneficiaris>1036</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="45" _uuid="77E27D2A-E562-449B-95F1-A7CB895ACB70" _position="45"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/45">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>137729</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat als fruits de closca i les garrofes</linia_ajut>
+            <beneficiaris>932</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="46" _uuid="D9EC1967-AA41-45ED-948E-EB9B3AA04535" _position="46"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/46">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat als llegums de qualitat</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="47" _uuid="B1F26CB4-4FFA-44BD-892D-EE0797EA9953" _position="47"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/47">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions de boví de llet</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="48" _uuid="0193A377-5D38-4422-9228-8220C06CCE5B" _position="48"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/48">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>21801</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions de boví d'engreix</linia_ajut>
+            <beneficiaris>3</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="49" _uuid="C33AB62C-A0B7-4A2C-A5F7-E9470AAD11AE" _position="49"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/49">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1075</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions de cabrum</linia_ajut>
+            <beneficiaris>4</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="50" _uuid="3CD2F5BC-CA46-442E-A41F-2DF880CF65FB" _position="50"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/50">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>18059</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions d'oví</linia_ajut>
+            <beneficiaris>6</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="51" _uuid="2033C91C-6A94-45BF-B9C7-48A63305D08C" _position="51"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/51">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2401</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions que mantenen vaques alletants</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="52" _uuid="1031A078-20F3-450C-8C07-DA11404EF286" _position="52"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/52">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per als ramaders de boví de llet amb drets especials al 2014</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="53" _uuid="8A016C82-FDDC-4E63-9CEA-5FDBA3F1A882" _position="53"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/53">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per als ramaders de boví d'engreix amb drets especials al 2014</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="54" _uuid="3FBD87B5-DA7F-4C19-94B4-D0547CAE5141" _position="54"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/54">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>32471.83</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per als ramaders d'oví i cabrum amb drets especials al 2014</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="55" _uuid="68F44313-22D3-49AA-9E9B-737B820DACBC" _position="55"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/55">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1703579</import>
+            <any>2015</any>
+            <linia_ajut>Ajut de pagament bàsic</linia_ajut>
+            <beneficiaris>1546</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="56" _uuid="1018CAB1-1BA0-4E1D-8840-2CFDA6510E7E" _position="56"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/56">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>28045</import>
+            <any>2015</any>
+            <linia_ajut>Ajut de pagament complementari pels joves agricultors/res</linia_ajut>
+            <beneficiaris>25</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="57" _uuid="BD315456-3C96-4A34-8D6C-AEC7F5A1D09C" _position="57"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/57">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>879381</import>
+            <any>2015</any>
+            <linia_ajut>Ajut de pagament per pràctiques agrícoles beneficioses pel medi ambient</linia_ajut>
+            <beneficiaris>1552</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="58" _uuid="18EFEB24-824C-40D6-9727-0475B1DF2DAF" _position="58"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/58">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1316014.21</import>
+            <any>2015</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>132</beneficiaris>
+            <superficie>202</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="59" _uuid="1C058CD0-BDF6-43C6-B6B9-F28B24D26012" _position="59"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/59">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2016</any>
+            <linia_ajut>Ajut associat al cultiu de l'arròs</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="60" _uuid="6AE096B1-619D-42D0-AE19-AB6091106FE4" _position="60"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/60">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2016</any>
+            <linia_ajut>Ajut associat al tomàquet per a indústria</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="61" _uuid="991AA433-0AA9-4EAB-B5DE-A54384F87C5D" _position="61"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/61">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1701.19</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat als cultius proteics</linia_ajut>
+            <beneficiaris>12</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="62" _uuid="7028E47B-6989-42E3-AC22-601B2CE9C324" _position="62"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/62">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1602.67</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat als cultius proteics</linia_ajut>
+            <beneficiaris>6</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="63" _uuid="9FC461E2-E529-4066-9603-D11B48603703" _position="63"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/63">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>102991.97</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat als fruits de closca i les garrofes</linia_ajut>
+            <beneficiaris>456</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="64" _uuid="4E6D2E45-D195-4C3B-BC06-8470BD69B879" _position="64"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/64">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>79.52</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat als llegums de qualitat</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="65" _uuid="3D35B883-C7C4-4902-A21E-E1FB1E10FAB1" _position="65"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/65">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per a les explotacions de boví de llet</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="66" _uuid="C60071DD-1258-4FD6-815E-3317B9B36E9A" _position="66"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/66">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>337.69</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per a les explotacions de boví d'engreix</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="67" _uuid="B2393DAB-0450-4858-8142-2DE6E7155B37" _position="67"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/67">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>16973.02</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per a les explotacions de boví d'engreix</linia_ajut>
+            <beneficiaris>4</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="68" _uuid="C5D13F24-4DBF-4006-968A-15EEC253AF36" _position="68"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/68">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1146.61</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per a les explotacions de cabrum</linia_ajut>
+            <beneficiaris>4</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="69" _uuid="2A023293-C6AE-4391-9429-F89328DDA16F" _position="69"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/69">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>20202.87</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per a les explotacions d'oví</linia_ajut>
+            <beneficiaris>8</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="70" _uuid="6C885221-CE38-4C83-B5D0-FFF50E17B53E" _position="70"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/70">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>2732.41</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per a les explotacions que mantenen vaques alletants</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="71" _uuid="67AB8427-C157-4EDC-9263-9B7DC6743664" _position="71"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/71">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per als ramaders de boví de llet amb drets especials al 2014</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="72" _uuid="DF8FB32C-2A57-41FA-A8D6-527D9496A8D1" _position="72"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/72">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per als ramaders de boví d'engreix amb drets especials al 2014</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="73" _uuid="54F16326-E1BA-4A6A-A92F-DBD7AA977174" _position="73"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/73">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>26782.65</import>
+            <any>2016</any>
+            <linia_ajut>Ajut associat per als ramaders d'oví i cabrum amb drets especials al 2014</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="74" _uuid="45471FE4-9AA4-42FB-B2E4-22CCC961F485" _position="74"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/74">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1462265.59</import>
+            <any>2016</any>
+            <linia_ajut>Ajut de pagament bàsic</linia_ajut>
+            <beneficiaris>660</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="75" _uuid="F6F9D190-F8CC-4919-8747-4E5F60728AAD" _position="75"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/75">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>34499.47</import>
+            <any>2016</any>
+            <linia_ajut>Ajut de pagament complementari pels joves agricultors/res</linia_ajut>
+            <beneficiaris>33</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="76" _uuid="1045C327-5E83-411A-8DCC-C37749E5B2F3" _position="76"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/76">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>769311.7</import>
+            <any>2016</any>
+            <linia_ajut>Ajut de pagament per pràctiques agrícoles beneficioses pel medi ambient</linia_ajut>
+            <beneficiaris>660</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="77" _uuid="831A9E03-2C8D-49B4-8BB8-64C12B26848F" _position="77"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/77">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>422506.01</import>
+            <any>2016</any>
+            <linia_ajut>Ajut de pagament règim petits agricultors</linia_ajut>
+            <beneficiaris>715</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="78" _uuid="85604722-495D-49CB-9C40-80DDCC5DCC52" _position="78"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/78">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1180746.00</import>
+            <any>2016</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>141</beneficiaris>
+            <superficie>206</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="79" _uuid="9300AA6E-E4E8-474E-97CC-DB87D2896BAC" _position="79"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/79">
+            <_>Tarragona</_>
+            <comarca>Alt Camp</comarca>
+            <import>1044146.87</import>
+            <any>2017</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>133</beneficiaris>
+            <superficie>202</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="80" _uuid="6C930E8B-7012-41BE-AF96-ECB239E0E517" _position="80"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/80">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>198322.63</import>
+            <any>2010</any>
+            <linia_ajut>Ajut a les OPFH que constitueixen un fons operatiu</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Fons operatius</grup>
+        </row>
+        <row _id="81" _uuid="17C4818E-FBC6-494C-B993-576CD4BF19F9" _position="81"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/81">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>160466.50</import>
+            <any>2011</any>
+            <linia_ajut>Ajut a les OPFH que constitueixen un fons operatiu</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Fons operatius</grup>
+        </row>
+        <row _id="82" _uuid="51B8B309-1F37-4806-B5EA-76B1320C14F1" _position="82"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/82">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>198.00</import>
+            <any>2011</any>
+            <linia_ajut>Ajut al foment de la qualitat dels llegums</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="83" _uuid="8756D393-6AB2-4F69-9FBF-6FD6A760B01F" _position="83"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/83">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>10564904.74</import>
+            <any>2011</any>
+            <linia_ajut>Ajut de pagament únic</linia_ajut>
+            <beneficiaris>1575</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="84" _uuid="24C6E7BE-71E7-4209-A682-74D3088D45D5" _position="84"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/84">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>38165.92</import>
+            <any>2011</any>
+            <linia_ajut>Ajut específic a la producció de carn d’oví i cabrum</linia_ajut>
+            <beneficiaris>16</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="85" _uuid="7D82CB80-5E20-4300-8492-20C19EA48FF8" _position="85"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/85">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>63303.17</import>
+            <any>2011</any>
+            <linia_ajut>Ajut específic a l'arròs</linia_ajut>
+            <beneficiaris>3</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="86" _uuid="BD88F351-3FDD-40F2-AC34-FB1EA10FD59C" _position="86"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/86">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>749.51</import>
+            <any>2011</any>
+            <linia_ajut>Ajut llavor certificada</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="87" _uuid="7246029F-F778-4EB0-9F92-E51A1BE455E8" _position="87"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/87">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>37623.08</import>
+            <any>2011</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions que mantinguin
+                vaques alletants
+            </linia_ajut>
+            <beneficiaris>35</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="88" _uuid="4B36095A-0001-40F5-818E-42AB249B794D" _position="88"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/88">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>1554.19</import>
+            <any>2011</any>
+            <linia_ajut>Ajut per la millora de la qualitat de les produccions d'oví-cabrum</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="89" _uuid="0C0E4967-3179-4005-99F0-BDA69C367A83" _position="89"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/89">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>63759.56</import>
+            <any>2011</any>
+            <linia_ajut>Ajut per la millora de qualitat de la carn de boví</linia_ajut>
+            <beneficiaris>51</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="90" _uuid="2F580C3B-C776-4F72-B8C5-641A78F3D4C7" _position="90"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/90">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>3623.67</import>
+            <any>2011</any>
+            <linia_ajut>Ajuts als fruits de closca</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="91" _uuid="AB320168-A936-4854-AD8C-E3ED30056F53" _position="91"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/91">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>114431.68</import>
+            <any>2011</any>
+            <linia_ajut>Pagament addicional al sector lacti</linia_ajut>
+            <beneficiaris>55</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="92" _uuid="6EF1A975-901A-4406-A67B-C9C64C0EC64A" _position="92"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/92">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>8864.51</import>
+            <any>2011</any>
+            <linia_ajut>Prima a les proteaginoses</linia_ajut>
+            <beneficiaris>38</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="93" _uuid="FC1AE5F3-7CCD-4D6C-895A-C694C81D39D9" _position="93"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/93">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>496656.22</import>
+            <any>2011</any>
+            <linia_ajut>Prima pel sacrifici de bovins</linia_ajut>
+            <beneficiaris>190</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="94" _uuid="3FC03AAD-C7DB-4CBF-B854-4E0B11270507" _position="94"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/94">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>299031.74</import>
+            <any>2011</any>
+            <linia_ajut>Prima per vaca alletant i prima complementària</linia_ajut>
+            <beneficiaris>28</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="95" _uuid="B1A1656B-CEC0-404C-92B7-CA6E9C8C3F14" _position="95"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/95">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>80833.48</import>
+            <any>2011</any>
+            <linia_ajut>Ajut a la promoció de vi en tercers països</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="96" _uuid="603BC723-DA91-4168-90C7-EDABDB4891D0" _position="96"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/96">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>139143.06</import>
+            <any>2011</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>12</beneficiaris>
+            <superficie>18</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="97" _uuid="E9B79A6D-8715-4622-BEF3-B86E2CA5F427" _position="97"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/97">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>156486.10</import>
+            <any>2012</any>
+            <linia_ajut>Ajut a les OPFH que constitueixen un fons operatiu</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Fons operatius</grup>
+        </row>
+        <row _id="98" _uuid="E99A54E2-1E25-456C-BDA7-BDD6A68E057F" _position="98"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/98">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>976.00</import>
+            <any>2012</any>
+            <linia_ajut>Ajut al foment de la qualitat dels llegums</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="99" _uuid="BAD13CAA-0566-40AD-8495-30008CCD55BB" _position="99"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/99">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>10844245.19</import>
+            <any>2012</any>
+            <linia_ajut>Ajut de pagament únic</linia_ajut>
+            <beneficiaris>1551</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="100" _uuid="D1994BF5-B357-40BC-8F8C-ED67B300ACE0" _position="100"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/100">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>40321.75</import>
+            <any>2012</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions que mantinguin
+                vaques alletants
+            </linia_ajut>
+            <beneficiaris>36</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="101" _uuid="51DA05E5-27A2-4DFF-8982-8E40ACD9602E" _position="101"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/101">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>26339.72</import>
+            <any>2012</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions d’oví
+            </linia_ajut>
+            <beneficiaris>14</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="102" _uuid="5FF22F3D-54F3-453E-8D60-740CBC130949" _position="102"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/102">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>210.68</import>
+            <any>2012</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions de cabrum
+            </linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="103" _uuid="8B80E142-3BD3-4178-933B-D1A61EBB5EED" _position="103"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/103">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>91265.33</import>
+            <any>2012</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions de vaquí de llet
+            </linia_ajut>
+            <beneficiaris>50</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="104" _uuid="DE514587-AED1-43AE-B534-20E148477C28" _position="104"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/104">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>1762.78</import>
+            <any>2012</any>
+            <linia_ajut>Ajut per la millora de la qualitat de les produccions d'oví-cabrum</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="105" _uuid="C0466C0E-ADF4-4193-AA92-91D73BFD5A12" _position="105"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/105">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>58831.14</import>
+            <any>2012</any>
+            <linia_ajut>Ajut per la millora de qualitat de la carn de boví</linia_ajut>
+            <beneficiaris>50</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="106" _uuid="AA92723C-204D-433A-82C7-71D76F23369C" _position="106"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/106">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>832.53</import>
+            <any>2012</any>
+            <linia_ajut>Ajuts als fruits de closca</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="107" _uuid="6E2976C2-43D2-4E38-906A-407EC9888ACD" _position="107"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/107">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>284823.25</import>
+            <any>2012</any>
+            <linia_ajut>Prima per vaca alletant i prima complementària</linia_ajut>
+            <beneficiaris>30</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="108" _uuid="BA5FBE2A-72EE-42ED-8C14-13DB7254CF47" _position="108"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/108">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>123447.38</import>
+            <any>2012</any>
+            <linia_ajut>Ajut a la promoció de vi en tercers països</linia_ajut>
+            <beneficiaris>4</beneficiaris>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="109" _uuid="656D6479-CA77-47D9-BECB-B71FF05E1E72" _position="109"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/109">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>104721.13</import>
+            <any>2012</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>9</beneficiaris>
+            <superficie>15</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="110" _uuid="8CC0A28D-DC57-4BD2-B36F-30EE4A1A63BB" _position="110"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/110">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>269415.75</import>
+            <any>2013</any>
+            <linia_ajut>Ajut a les OPFH que constitueixen un fons operatiu</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Fons operatius</grup>
+        </row>
+        <row _id="111" _uuid="DA490899-DB46-46EF-9F32-0224B5DB51BE" _position="111"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/111">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut al foment d’activitats agrícoles beneficioses pel mediambient en el sector dels fruits de
+                closca
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="112" _uuid="CC3E1EC4-CA1F-4FAE-86BF-5822F0A1F9F4" _position="112"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/112">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>612</import>
+            <any>2013</any>
+            <linia_ajut>Ajut al foment de la qualitat dels llegums</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="113" _uuid="6F3253EB-6968-41BE-BD99-94E2698830AB" _position="113"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/113">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>10692630</import>
+            <any>2013</any>
+            <linia_ajut>Ajut de pagament únic</linia_ajut>
+            <beneficiaris>1541</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="114" _uuid="4055646E-1F20-417A-B7CE-37FD5B370825" _position="114"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/114">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>39689</import>
+            <any>2013</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions que mantinguin
+                vaques alletants
+            </linia_ajut>
+            <beneficiaris>36</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="115" _uuid="CDB88FB6-2F42-46A3-9583-C8E5771D6B1F" _position="115"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/115">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>28395.29</import>
+            <any>2013</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions d’oví
+            </linia_ajut>
+            <beneficiaris>16</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="116" _uuid="A645D878-DDF6-470C-8535-FF62B1E08569" _position="116"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/116">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions de cabrum
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="117" _uuid="8D0DB766-9DAC-4058-9448-F009B635F655" _position="117"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/117">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>85359</import>
+            <any>2013</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions de vaquí de llet
+            </linia_ajut>
+            <beneficiaris>51</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="118" _uuid="F64951BF-50CC-4231-8467-98A3FA5C7733" _position="118"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/118">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>3008</import>
+            <any>2013</any>
+            <linia_ajut>Ajut per la millora de la qualitat de la llet i els productes làctics de vaca</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="119" _uuid="53FA918B-2DEE-4F2E-A699-37D4E554F156" _position="119"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/119">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <any>2013</any>
+            <linia_ajut>Ajut per la millora de la qualitat de les produccions d'oví-cabrum</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="120" _uuid="A6E63EBF-9E41-4E3B-8643-CC14F46E2732" _position="120"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/120">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>60726</import>
+            <any>2013</any>
+            <linia_ajut>Ajut per la millora de qualitat de la carn de boví</linia_ajut>
+            <beneficiaris>52</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="121" _uuid="2479B6E2-A748-4B3F-9463-1CAD5AD00074" _position="121"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/121">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>446</import>
+            <any>2013</any>
+            <linia_ajut>Ajuts als fruits de closca</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="122" _uuid="86F34C3F-9EB8-48C5-89A5-08845CD2DB79" _position="122"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/122">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>260406</import>
+            <any>2013</any>
+            <linia_ajut>Prima per vaca alletant i prima complementària</linia_ajut>
+            <beneficiaris>29</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="123" _uuid="FD711E69-AC7D-47B1-B85B-DD39B4707A4A" _position="123"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/123">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>109107.98</import>
+            <any>2013</any>
+            <linia_ajut>Ajut a la promoció de vi en tercers països</linia_ajut>
+            <beneficiaris>4</beneficiaris>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="124" _uuid="BD6F001A-E6F5-41C8-8772-99AA8F3E022E" _position="124"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/124">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>39393.11</import>
+            <any>2013</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>4</beneficiaris>
+            <superficie>4</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="125" _uuid="4073AD9B-494D-41F6-A47B-CE33542358FD" _position="125"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/125">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>280690.15</import>
+            <any>2014</any>
+            <linia_ajut>Ajut a les OPFH que constitueixen un fons operatiu</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Fons operatius</grup>
+        </row>
+        <row _id="126" _uuid="5EC7A5DA-D0F1-4A62-8F18-8BA0FC2E8B33" _position="126"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/126">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut al foment d’activitats agrícoles beneficioses pel mediambient en el sector dels fruits de
+                closca
+            </linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="127" _uuid="06C95AE1-08FC-40A3-B0D1-1C11E3EBE183" _position="127"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/127">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>2089</import>
+            <any>2014</any>
+            <linia_ajut>Ajut al foment de la qualitat dels llegums</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="128" _uuid="C1C465C0-5638-431A-AC5E-4A16324B82C9" _position="128"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/128">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>10469083.89</import>
+            <any>2014</any>
+            <linia_ajut>Ajut de pagament únic</linia_ajut>
+            <beneficiaris>1417</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="129" _uuid="3C2CCDD9-7FF6-4F82-833D-1530190D21C3" _position="129"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/129">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>39959</import>
+            <any>2014</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions que mantinguin
+                vaques alletants
+            </linia_ajut>
+            <beneficiaris>37</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="130" _uuid="11867EE1-3847-46A6-BE06-22FA3A5727B3" _position="130"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/130">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>27348</import>
+            <any>2014</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions d’oví
+            </linia_ajut>
+            <beneficiaris>16</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="131" _uuid="EB94B132-06B2-4410-B421-46AFCF693A8F" _position="131"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/131">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>144</import>
+            <any>2014</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten a les explotacions de cabrum
+            </linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="132" _uuid="68861C5E-440A-41F3-92C6-E4DF273A79FB" _position="132"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/132">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>92291</import>
+            <any>2014</any>
+            <linia_ajut>Ajut per compensar els desavantatges específics que afecten les explotacions de vaquí de llet
+            </linia_ajut>
+            <beneficiaris>47</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="133" _uuid="BE01A805-FFBB-4B9D-9ED7-01BDF05796D5" _position="133"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/133">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>5686</import>
+            <any>2014</any>
+            <linia_ajut>Ajut per la millora de la qualitat de la llet i els productes làctics de vaca</linia_ajut>
+            <beneficiaris>2</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="134" _uuid="6590A154-A353-4939-B780-23101C46D982" _position="134"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/134">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <any>2014</any>
+            <linia_ajut>Ajut per la millora de la qualitat de les produccions d'oví-cabrum</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="135" _uuid="7D4E5082-D47A-4C92-8BF8-3B222043FE80" _position="135"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/135">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>64857</import>
+            <any>2014</any>
+            <linia_ajut>Ajut per la millora de qualitat de la carn de boví</linia_ajut>
+            <beneficiaris>48</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="136" _uuid="EA6BB43F-4B50-40FE-BB6F-23EE3723E8E6" _position="136"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/136">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>76</import>
+            <any>2014</any>
+            <linia_ajut>Ajuts als fruits de closca</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="137" _uuid="58C0AD7A-546F-4012-B70A-3D66790F69A9" _position="137"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/137">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>285095</import>
+            <any>2014</any>
+            <linia_ajut>Prima per vaca alletant i prima complementària</linia_ajut>
+            <beneficiaris>30</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="138" _uuid="23A09E74-A72D-4288-8085-5F967635BF1D" _position="138"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/138">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>168660.34</import>
+            <any>2014</any>
+            <linia_ajut>Ajut a la promoció de vi en tercers països</linia_ajut>
+            <beneficiaris>11</beneficiaris>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="139" _uuid="A0893BDB-371B-4196-AD0C-55307ABDFB6F" _position="139"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/139">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>29913.93</import>
+            <any>2014</any>
+            <linia_ajut>Ajuts reestructuració de la vinya</linia_ajut>
+            <beneficiaris>6</beneficiaris>
+            <superficie>7</superficie>
+            <grup>Sector vitícola</grup>
+        </row>
+        <row _id="140" _uuid="F122C10C-F276-41A5-94D2-A6DA7B39CDB8" _position="140"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/140">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>277581.10</import>
+            <any>2015</any>
+            <linia_ajut>Ajut a les OPFH que constitueixen un fons operatiu</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Fons operatius</grup>
+        </row>
+        <row _id="141" _uuid="492CF04E-6C6A-4ABA-97A2-DA0CAEC9F38B" _position="141"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/141">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>20705</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat al cultiu de l'arròs</linia_ajut>
+            <beneficiaris>5</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="142" _uuid="FD261D26-6215-4478-B7DC-171AD4479D7E" _position="142"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/142">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat al tomàquet per a indústria</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="143" _uuid="6430EC30-634F-41E0-8961-C17D1348DD00" _position="143"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/143">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>80189</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat als cultius proteics</linia_ajut>
+            <beneficiaris>256</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="144" _uuid="7C3BE948-4B26-4389-800C-1BB92CFEB55D" _position="144"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/144">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>68.15</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat als fruits de closca</linia_ajut>
+            <beneficiaris>1</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="145" _uuid="7C872C63-2025-4ABB-8B20-0D207670FA44" _position="145"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/145">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat als fruits de closca i les garrofes</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="146" _uuid="63E439CC-2808-4205-A8B9-24CA749ADD67" _position="146"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/146">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <any>2015</any>
+            <linia_ajut>Ajut associat als llegums de qualitat</linia_ajut>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="147" _uuid="556E6505-159C-41F0-9886-E94058EB2C25" _position="147"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/147">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>560708</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions de boví de llet</linia_ajut>
+            <beneficiaris>76</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="148" _uuid="01312FCC-E422-4BEC-B63A-B9ADA1288271" _position="148"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/148">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>418040</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions de boví d'engreix</linia_ajut>
+            <beneficiaris>99</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="149" _uuid="62A5B3FE-8C78-46FC-812B-3645CD33A088" _position="149"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/149">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>5484</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions de cabrum</linia_ajut>
+            <beneficiaris>9</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+        <row _id="150" _uuid="4BFB9923-DE74-4B2D-9BB8-4162F008DB41" _position="150"
+             _address="https://analisi.transparenciacatalunya.cat/resource/_7i4q-m7u3/150">
+            <_>Girona</_>
+            <comarca>Alt Empordà</comarca>
+            <import>168305</import>
+            <any>2015</any>
+            <linia_ajut>Ajut associat per a les explotacions d'oví</linia_ajut>
+            <beneficiaris>27</beneficiaris>
+            <grup>Pagaments directes</grup>
+        </row>
+    </row>
+</response>

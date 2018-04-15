@@ -5,16 +5,16 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Activitat final - JTorrus</title>
+    <title>Actividad final - JTorrus</title>
 </head>
 <body>
 
-<h1>RSS Feed Jetbrains</h1>
+<h1>Actividad Final - Javier Torrus</h1>
 
 <ul>
     <li>
         <a href="ejercicio_1.php">
-            Export XML desde archivo (Calendario de actividades y fiestas locales en Cataluña para 2018)
+            Export XML desde archivo
         </a>
     </li>
 </ul>
@@ -26,7 +26,11 @@
     </li>
 </ul>
 <ul>
-    <li></li>
+    <li>
+        <a href="ejercicio_3.php">
+            Insert de un XML a una base de datos MySQL
+        </a>
+    </li>
 </ul>
 <ul>
     <li></li>
