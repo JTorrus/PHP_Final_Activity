@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Company Blog</title>
+	<atom:link href="https://blog.jetbrains.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.jetbrains.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Apr 2018 19:34:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.15</generator>
+	<item>
+		<title>Educational Products by JetBrains</title>
+		<link>https://blog.jetbrains.com/blog/2018/04/05/educational-products-by-jetbrains/</link>
+		<comments>https://blog.jetbrains.com/blog/2018/04/05/educational-products-by-jetbrains/#comments</comments>
+		<pubDate>Thu, 05 Apr 2018 19:32:02 +0000</pubDate>
+		<dc:creator><![CDATA[Tatiana Vasilyeva]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Learning Courses]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8268</guid>
+		<description><![CDATA[Back in 2015, when we announced JetBrains&#8217; new brand, we were talking about the drive that identified us as a company and as developers, and united us with our users. We were talking not only about the drive to develop &#8230; <a href="https://blog.jetbrains.com/blog/2018/04/05/educational-products-by-jetbrains/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2018/04/05/educational-products-by-jetbrains/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Python Developers Survey 2017 Results: Learn about the community</title>
+		<link>https://blog.jetbrains.com/blog/2018/04/03/python-developers-survey-2017-results-learn-about-the-community/</link>
+		<comments>https://blog.jetbrains.com/blog/2018/04/03/python-developers-survey-2017-results-learn-about-the-community/#respond</comments>
+		<pubDate>Tue, 03 Apr 2018 15:18:45 +0000</pubDate>
+		<dc:creator><![CDATA[Anastasia Chumak]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[infographic]]></category>
+		<category><![CDATA[pythondevsurvey]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[survey]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8258</guid>
+		<description><![CDATA[At the very end of 2017, the Python Software Foundation together with JetBrains conducted an official Python Developers Survey. We set out to identify the latest trends and gather insight into how the Python development world looks today. Over 9,500 &#8230; <a href="https://blog.jetbrains.com/blog/2018/04/03/python-developers-survey-2017-results-learn-about-the-community/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2018/04/03/python-developers-survey-2017-results-learn-about-the-community/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Update on SSH Access to GitHub in IntelliJ-based IDEs</title>
+		<link>https://blog.jetbrains.com/blog/2018/02/26/update-on-ssh-access-to-github-in-intellij-based-ides/</link>
+		<comments>https://blog.jetbrains.com/blog/2018/02/26/update-on-ssh-access-to-github-in-intellij-based-ides/#comments</comments>
+		<pubDate>Mon, 26 Feb 2018 17:15:02 +0000</pubDate>
+		<dc:creator><![CDATA[Andrey Cheptsov]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[Intellij]]></category>
+		<category><![CDATA[IntelliJ Platform]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8242</guid>
+		<description><![CDATA[GitHub introduced a change last week that drops support for weak cryptographic keys. This has resulted in connectivity issues for some users who are connecting to GitHub using SSH and the built-in client SSH Executable. To rehash, there are two &#8230; <a href="https://blog.jetbrains.com/blog/2018/02/26/update-on-ssh-access-to-github-in-intellij-based-ides/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2018/02/26/update-on-ssh-access-to-github-in-intellij-based-ides/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+	<custom_fields><aFhfc_head_code></aFhfc_head_code><aFhfc_footer_code></aFhfc_footer_code></custom_fields>	</item>
+		<item>
+		<title>Introducing public beta of Datalore – web application for machine learning</title>
+		<link>https://blog.jetbrains.com/blog/2018/02/20/introducing-public-beta-of-datalore-web-application-for-machine-learning/</link>
+		<comments>https://blog.jetbrains.com/blog/2018/02/20/introducing-public-beta-of-datalore-web-application-for-machine-learning/#comments</comments>
+		<pubDate>Tue, 20 Feb 2018 13:12:31 +0000</pubDate>
+		<dc:creator><![CDATA[Zoya Cherkasova]]></dc:creator>
+				<category><![CDATA[New Products]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8231</guid>
+		<description><![CDATA[Last Monday, February 12, we launched a public beta of Datalore – an intelligent web application for data analysis and visualization in Python. Today, machine learning is at the heart of many commercial applications and research projects. By introducing Datalore, &#8230; <a href="https://blog.jetbrains.com/blog/2018/02/20/introducing-public-beta-of-datalore-web-application-for-machine-learning/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2018/02/20/introducing-public-beta-of-datalore-web-application-for-machine-learning/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>JetBrains Toolbox 2017.3 adds GoLand IDE to the toolset</title>
+		<link>https://blog.jetbrains.com/blog/2018/01/18/jetbrains-toolbox-2017-3-adds-goland-ide-to-the-tool-set/</link>
+		<comments>https://blog.jetbrains.com/blog/2018/01/18/jetbrains-toolbox-2017-3-adds-goland-ide-to-the-tool-set/#comments</comments>
+		<pubDate>Thu, 18 Jan 2018 14:20:04 +0000</pubDate>
+		<dc:creator><![CDATA[Eugene Toporov]]></dc:creator>
+				<category><![CDATA[New Products]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[JetBrains Toolbox]]></category>
+		<category><![CDATA[Release]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8188</guid>
+		<description><![CDATA[Before the end of 2017, the JetBrains Toolbox family of products have been updated for the third time to 2017.3! Every tool has been expanded, polished, and refined in multiple areas, to give you a superior user experience and the &#8230; <a href="https://blog.jetbrains.com/blog/2018/01/18/jetbrains-toolbox-2017-3-adds-goland-ide-to-the-tool-set/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2018/01/18/jetbrains-toolbox-2017-3-adds-goland-ide-to-the-tool-set/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	<custom_fields><aFhfc_head_code></aFhfc_head_code><aFhfc_footer_code></aFhfc_footer_code></custom_fields>	</item>
+		<item>
+		<title>Take part in our new Developer Ecosystem Survey 2018</title>
+		<link>https://blog.jetbrains.com/blog/2018/01/04/take-part-in-our-new-developer-ecosystem-survey-2018/</link>
+		<comments>https://blog.jetbrains.com/blog/2018/01/04/take-part-in-our-new-developer-ecosystem-survey-2018/#respond</comments>
+		<pubDate>Thu, 04 Jan 2018 15:14:06 +0000</pubDate>
+		<dc:creator><![CDATA[Anastasia Chumak]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[DevEcosystem]]></category>
+		<category><![CDATA[survey]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8171</guid>
+		<description><![CDATA[We love getting the real opinions of developers at JetBrains, be it the users of our products or not. This is the world we are a part of; we like to hear what you think so we can make sure &#8230; <a href="https://blog.jetbrains.com/blog/2018/01/04/take-part-in-our-new-developer-ecosystem-survey-2018/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2018/01/04/take-part-in-our-new-developer-ecosystem-survey-2018/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Keep up the great work!</title>
+		<link>https://blog.jetbrains.com/blog/2017/12/23/keep-up-the-great-work/</link>
+		<comments>https://blog.jetbrains.com/blog/2017/12/23/keep-up-the-great-work/#respond</comments>
+		<pubDate>Sat, 23 Dec 2017 08:17:01 +0000</pubDate>
+		<dc:creator><![CDATA[Maria Khalusova]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8166</guid>
+		<description><![CDATA[Today we&#8217;ve raffled off the final 10 remaining personal yearly subscriptions to All Products pack thus concluding our #JetBrainsRaffle. We would like to say a big thank you to everyone who has participated and shared their impressive achievements of this &#8230; <a href="https://blog.jetbrains.com/blog/2017/12/23/keep-up-the-great-work/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2017/12/23/keep-up-the-great-work/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Let&#8217;s celebrate the year&#8217;s achievements together!</title>
+		<link>https://blog.jetbrains.com/blog/2017/12/18/lets-celebrate-achievements-of-2017-together/</link>
+		<comments>https://blog.jetbrains.com/blog/2017/12/18/lets-celebrate-achievements-of-2017-together/#comments</comments>
+		<pubDate>Mon, 18 Dec 2017 07:56:15 +0000</pubDate>
+		<dc:creator><![CDATA[Maria Khalusova]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8149</guid>
+		<description><![CDATA[With the year coming to an end, many of us tend to look back and reminisce about the things we’ve achieved during this year. As a software development community and as individual developers we have all reached new milestones, moved &#8230; <a href="https://blog.jetbrains.com/blog/2017/12/18/lets-celebrate-achievements-of-2017-together/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2017/12/18/lets-celebrate-achievements-of-2017-together/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<custom_fields><aFhfc_head_code></aFhfc_head_code><aFhfc_footer_code></aFhfc_footer_code></custom_fields>	</item>
+		<item>
+		<title>Join the &#8220;GitHub and IntelliJ IDEs&#8221; Webinar</title>
+		<link>https://blog.jetbrains.com/blog/2017/12/06/join-the-github-and-intellij-ides-webinar/</link>
+		<comments>https://blog.jetbrains.com/blog/2017/12/06/join-the-github-and-intellij-ides-webinar/#comments</comments>
+		<pubDate>Wed, 06 Dec 2017 16:19:05 +0000</pubDate>
+		<dc:creator><![CDATA[Paul Everitt]]></dc:creator>
+				<category><![CDATA[Partners]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[Github integration]]></category>
+		<category><![CDATA[IntelliJ IDEA]]></category>
+		<category><![CDATA[IntelliJ Platform]]></category>
+		<category><![CDATA[webinar]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8138</guid>
+		<description><![CDATA[GitHub helps teams collaborate around code and work together, and JetBrains IDEs help keep GitHub versioning working productively without switching contexts. Our IDEs also put a pretty face on sometimes cryptic Git commands while preserving the power of high-end versioning &#8230; <a href="https://blog.jetbrains.com/blog/2017/12/06/join-the-github-and-intellij-ides-webinar/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2017/12/06/join-the-github-and-intellij-ides-webinar/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<custom_fields><aFhfc_head_code></aFhfc_head_code><aFhfc_footer_code></aFhfc_footer_code></custom_fields>	</item>
+		<item>
+		<title>Clarification on Go support plugin availability in IntelliJ-based IDEs</title>
+		<link>https://blog.jetbrains.com/blog/2017/12/01/clarification-on-go-support-plugin-availability-in-intellij-based-ides/</link>
+		<comments>https://blog.jetbrains.com/blog/2017/12/01/clarification-on-go-support-plugin-availability-in-intellij-based-ides/#comments</comments>
+		<pubDate>Fri, 01 Dec 2017 15:33:55 +0000</pubDate>
+		<dc:creator><![CDATA[Eugene Toporov]]></dc:creator>
+				<category><![CDATA[FYI]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://blog.jetbrains.com/?p=8131</guid>
+		<description><![CDATA[Yesterday we released the newest member to our family of IDEs, GoLand, an IDE for Go language. Additionally, this week we have also released major 2017.3 updates to many of our other tools, including IntelliJ IDEA, WebStorm, CLion, PyCharm, and &#8230; <a href="https://blog.jetbrains.com/blog/2017/12/01/clarification-on-go-support-plugin-availability-in-intellij-based-ides/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+		<wfw:commentRss>https://blog.jetbrains.com/blog/2017/12/01/clarification-on-go-support-plugin-availability-in-intellij-based-ides/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+	<custom_fields><aFhfc_head_code></aFhfc_head_code><aFhfc_footer_code></aFhfc_footer_code></custom_fields>	</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+Content Delivery Network via Amazon Web Services: CloudFront: d3nmt5vlzunoa1.cloudfront.net
+
+ Served from: blog.jetbrains.com @ 2018-04-15 00:07:11 by W3 Total Cache -->
